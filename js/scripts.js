@@ -7,32 +7,32 @@ $(function(){
     var tweets = [{
         title: "song1",
         artist: "artist1",
-        img: "/img/null.png",
+        img: "img/null.png",
         message: "Woow check this out!"
     },{
         title: "song1",
         artist: "artist1",
-        img: "/img/null.png",
+        img: "img/null.png",
         message: "Woow check this out!"
     },{
         title: "song1",
         artist: "artist1",
-        img: "/img/null.png",
+        img: "img/null.png",
         message: "Woow check this out!"
     },{
         title: "song1",
         artist: "artist1",
-        img: "/img/null.png",
+        img: "img/null.png",
         message: "Woow check this out!"
     },{
         title: "song1",
         artist: "artist1",
-        img: "/img/null.png",
+        img: "img/null.png",
         message: "Woow check this out!"
     },{
         title: "song1",
         artist: "artist1",
-        img: "/img/null.png",
+        img: "img/null.png",
         message: "Woow check this out!"
     }];
 

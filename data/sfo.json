@@ -1,0 +1,778 @@
+[
+  {
+    "track_title": " Crickets",
+    "mood": "Fiery",
+    "artist_name": "Drop City Yacht Club Feat. Jeremih ",
+    "artist_image": "",
+    "genre": "Contemporary R&B/Soul",
+    "album_art": ""
+  },
+  {
+    "track_title": " Renegades of Funk",
+    "mood": "Aggressive",
+    "artist_name": "Rage Against the Machine",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=FE9E3AA38FA0A8F0&client=2711808&class=image&size=medium&type=image/jpeg&tag=02ZDArd6gjaLFKhDTbqHIJseEfGDZd98qlmUSL9QKGwt.Q8NbyCG1o0w",
+    "genre": "Metal",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=683B63193B36AC1B&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=024knKmu1St6rhqpmi9p8FHA05l.wgjzVUkS459cXv4snx8tUSsOjSyg"
+  },
+  {
+    "track_title": " Baby I'm Yours",
+    "mood": "Sensual",
+    "artist_name": "breakbot",
+    "artist_image": "",
+    "genre": "House",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=CC0AF432A4F88DB9&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02uwlBQ4n1ReZ.YVF9q8SNlRaoN8IjdaWMlkHBZKDoYC-bU87Y5GJHXg"
+  },
+  {
+    "track_title": " Ghetto D",
+    "mood": "Cool",
+    "artist_name": "Master P",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=54270A8104549527&client=2711808&class=image&size=medium&type=image/jpeg&tag=02SmloceeKLhvcs3Wdq5AycVPG1UelP3jc7cw76pKiZyymPd1WTU1B0Q",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=6C3A37C07F4307CB&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02zzesOUp5T7d8g-X-e9zKIHdaae1HnYxD9tsMEQ-udRA6HGofuOUbVQ"
+  },
+  {
+    "track_title": " Hoody Hooo",
+    "mood": "Defiant",
+    "artist_name": "Master P",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=54270A8104549527&client=2711808&class=image&size=medium&type=image/jpeg&tag=02-ZaYv20AyZVP7Jxc49l54QyLbEhnk6omCMByGJEfARC07FUGui1lZQ",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=9679021083F327C1&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02s9fqrWloz5aiWZ63Ye0XFzZNEH5nAK1EfkKf.Bz6T.m2s55twAfSWA"
+  },
+  {
+    "track_title": " How Ya Do Dat",
+    "mood": "Defiant",
+    "artist_name": "Young Bleed",
+    "artist_image": "",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=3DE657EE9362CC51&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02Hza1l7QHd39nXBjqzVKzABbSjdLU2QSjGNaYX4yEyf13g.yreduAFA"
+  },
+  {
+    "track_title": " Detroit Part 1",
+    "mood": "Energizing",
+    "artist_name": "Shigeto cc: @ghostly ",
+    "artist_image": "",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=EED3949773FB9D86&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02KuGyOx1sKTqGRu5BNy8Cqje81yxxbmsKyjZEias1eN9j6wqHOPwO7g"
+  },
+  {
+    "track_title": " Detroit Part 1",
+    "mood": "Energizing",
+    "artist_name": "Shigeto cc: @ghostly ",
+    "artist_image": "",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=EED3949773FB9D86&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02MXXRF5mJsPzGy-qw5p6IrtlTq-DGkaEZ6WMqDBXX9m1pxP5PmSIRvg"
+  },
+  {
+    "track_title": " Detroit Part 1",
+    "mood": "Energizing",
+    "artist_name": "Shigeto cc: @ghostly ",
+    "artist_image": "",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=EED3949773FB9D86&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02-dnHrywnJHWnMKEWqGo7kc0UXR6SY9YXWxbXeZBmftq9iVek6IJxXw"
+  },
+  {
+    "track_title": " Detroit Part 1",
+    "mood": "Energizing",
+    "artist_name": "Shigeto cc: @ghostly ",
+    "artist_image": "",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=EED3949773FB9D86&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=024kW.5VNTitwn23WNUqI4pVIji04NZXorqfwUqws7NjEAC9bjQo6cBg"
+  },
+  {
+    "track_title": " Biting Down",
+    "mood": "Sensual",
+    "artist_name": "Lorde",
+    "artist_image": "",
+    "genre": "Western Pop",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=2FE8580A67C7D909&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02hyzarohXhmG.LOqO2lrm5LXNtTMqxcCNDh9YSIxxDhAxMjX2emMFdg"
+  },
+  {
+    "track_title": " Biting Down",
+    "mood": "Sensual",
+    "artist_name": "Lorde",
+    "artist_image": "",
+    "genre": "Western Pop",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=2FE8580A67C7D909&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02qbe-GOGKhgC5Uiu5TmZuuCgsparKGHUlKuma2MNS2sBWZD5gwnrdpQ"
+  },
+  {
+    "track_title": " Royals",
+    "mood": "Cool",
+    "artist_name": "Lorde",
+    "artist_image": "",
+    "genre": "Western Pop",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=2FE8580A67C7D909&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02fmfW0K3fmeFlWkZkQ1TYz8wSJXus3gLuE1EbLrRnrUfY8HZKtoT.TA"
+  },
+  {
+    "track_title": " Tennis Court",
+    "mood": "Cool",
+    "artist_name": "Lorde",
+    "artist_image": "",
+    "genre": "Western Pop",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=A1F5C8C979832879&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=021xUYQpBWR5ak8fs6dhIujfPgwuhGSoEuez1pKbr-Nlaa3EWfyfA4wg"
+  },
+  {
+    "track_title": " Biting Down",
+    "mood": "Sensual",
+    "artist_name": "Lorde",
+    "artist_image": "",
+    "genre": "Western Pop",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=2FE8580A67C7D909&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02G9H0JI4atIAJx4DG6eItGG0Et2CcUNn9EQN9fp-nQUwGlIxAmqQuig"
+  },
+  {
+    "track_title": " Lovely Rita",
+    "mood": "Upbeat",
+    "artist_name": "The Beatles",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=0907CA7C7B5E3CF8&client=2711808&class=image&size=medium&type=image/jpeg&tag=02wSTnZ-vYvL0H5MXhaaz866B7QzlrzCYGTvnDPdbIaPlyvgSh.WWwrA",
+    "genre": "60's Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=BF19FC77D41966E1&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=029pQOVrKRFu96UGb09ixy7iKkB9CldvzwStx..zZblN8o6FP63m5V0g"
+  },
+  {
+    "track_title": " I'm In Love and I Love the Feeling (Live)",
+    "mood": "Easygoing",
+    "artist_name": "Rose Royce ",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=5BDB6C7A1AAB6F9C&client=2711808&class=image&size=medium&type=image/jpeg&tag=02kTcL6o0rhCLHDFpu4Y8odnWCaiicfqE-kvEgz8IbsHkddg5yGh3KLg",
+    "genre": "Disco",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=8CA89C05C54F5680&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02IeQP20yhEOHvx-w7AMegNXOSfntXjUCJmrrc8bpGLfEr0MDiaIiS2Q"
+  },
+  {
+    "track_title": " I LIke My Baby's Pudding",
+    "mood": "Lively",
+    "artist_name": "Wynonie Harris ",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=E289E101022FF122&client=2711808&class=image&size=medium&type=image/jpeg&tag=02RRu5UB1XDMEtw.Mu-DkjJ.sju6RlS9x7UH7.zwRLqda73n7hfXtn2w",
+    "genre": "Big Band & Swing",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=5BF50BD9C8B11CE2&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02K5il2dexC4Z1IB9ah3I1de32fM5Yv9cvsfbUtlg5FrdOYeOHFvVfHw"
+  },
+  {
+    "track_title": " Dreams",
+    "mood": "Brooding",
+    "artist_name": "The Cranberries",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=BA4752E7818AF78A&client=2711808&class=image&size=medium&type=image/jpeg&tag=02vqEYXn9ZsUPFeiAmq4fhaNeaKGj0oG4YWq6YwpecuVqTMN82pyw-TA",
+    "genre": "Adult Alternative Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=7C9A0997E5D70C26&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02zJCxYIjLcc1hKqQILhEGZr5Xf-CHt0aAD0Mqejd-UZidND8WRrfWMA"
+  },
+  {
+    "track_title": " These Boots Are Made for Walkin'",
+    "mood": "Lively",
+    "artist_name": "Nancy Sinatra",
+    "artist_image": "",
+    "genre": "60's Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=864746D55CB5F455&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=024rtePY1PuwTKoox5beBPbc5z3ybfpgTbwUzcV8qTj04ASe1cLQ.c7A"
+  },
+  {
+    "track_title": " 21 On the 101",
+    "mood": "Rowdy",
+    "artist_name": "Juiceboxxx",
+    "artist_image": "",
+    "genre": "House",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=BCC25E47C585D8CB&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=0270VVj8B4wugCs41J5Qojmek8dPtgsxIs43fWCaJ1wf-ykq-3hxywqQ"
+  },
+  {
+    "track_title": " Neutron Dance",
+    "mood": "Energizing",
+    "artist_name": "Pointer Sisters",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=471B5990BE410EE7&client=2711808&class=image&size=medium&type=image/jpeg&tag=02RQh4M4Z87X1IHPKAq3sRwo3slPN5qpQAZzUF7FUZ257d0Kh0G.FLgg",
+    "genre": "Contemporary R&B/Soul",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=6815EF0F0F949A31&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02hh1majO5krBjn1fjPwT6IBBjKypgW5ww898FshyKANN-25-W0de7tw"
+  },
+  {
+    "track_title": " Beds Are Burning",
+    "mood": "Urgent",
+    "artist_name": "Midnight Oil cc: @_testin",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=EAD32A9E382FD30F&client=2711808&class=image&size=medium&type=image/jpeg&tag=029rj76KFovCGVCvhsYVmD0yWRaYLih72WolJwIlUbE8SyEGuXMT0kZA",
+    "genre": "Alternative",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=01D9AF4F4A396358&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02zzvnHYU81jgk4xlK58yKUU4gF-5Yy2DHyMc51hV6Z5MamFgCa3KHgg"
+  },
+  {
+    "track_title": " Shot At The Night",
+    "mood": "Energizing",
+    "artist_name": "The Killers",
+    "artist_image": "",
+    "genre": "House",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=B85BBABE09B5C4AB&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02LfUiE5idtjoyW7KmWXf36F6-oIzJMftPTk-g.6aJrb5v7juQXw9s8w"
+  },
+  {
+    "track_title": " rock star",
+    "mood": "",
+    "artist_name": "N.E.R.D.",
+    "artist_image": "",
+    "genre": "Comedy",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=C9739AE682E2D185&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=0213FV-WyBsDINZvMsuGkTb6WXp29TWUNMauwp6gkJSezWwk-FoEpL7g"
+  },
+  {
+    "track_title": " Shake",
+    "mood": "Rowdy",
+    "artist_name": "@samcookemodelDJ",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=93C228D72C7DB97D&client=2711808&class=image&size=medium&type=image/jpeg&tag=02qg8eof4IKqadyTsibLN5FvxvZakLawAihjC9aMhOY7rSwOGLll3nrw",
+    "genre": "70's Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=D68F83DB133BC8B9&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02za8E0v0bG4AfFZnDfyI6DvzYZlPBpWRNTIyBgksbYf1fgwvCynNhkQ"
+  },
+  {
+    "track_title": " On The Beach",
+    "mood": "Sensual",
+    "artist_name": "Chris Rea",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=11A4D010CEE45776&client=2711808&class=image&size=medium&type=image/jpeg&tag=02H0PdHduEpzDQ0sTO44N1CLDDQ8UHGVD0HxHOUcoHNhbMl5tilx6dig",
+    "genre": "Western Pop",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=F220425753A8DE34&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02SricWt4hZ7PSwiH7YZC1knpP8SmpD0vsPxTsjQ44O071SqTrZMF58Q"
+  },
+  {
+    "track_title": " Blood On the Leaves",
+    "mood": "Sensual",
+    "artist_name": "KANYE WEST",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=E9BF5451DB8A6F48&client=2711808&class=image&size=medium&type=image/jpeg&tag=02KHIyA43yurWB8k4kiLZEemaLzfbk.OfAyx8owjKR7pS-6tF-Lc24Cg",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=1DE11D0E44451324&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02asZ3uRzmKAkd1jl4vNJ3UE27QHQp3RuPoPV9jZMQc6dwDfhHyYrvAQ"
+  },
+  {
+    "track_title": " soundtracking Sweets for My Sweet",
+    "mood": "Rowdy",
+    "artist_name": "Mike Pender's Searchers ",
+    "artist_image": "",
+    "genre": "Mainstream Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=D29602F8CDABA6D5&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02uMMbTYxSItvq-GGcn04FcyeabJxFNjeeIe6dWKE8FPRse.Seb4tayA"
+  },
+  {
+    "track_title": " Dog Days Are Over",
+    "mood": "Excited",
+    "artist_name": "florence welch",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=E64403BC6A538F82&client=2711808&class=image&size=medium&type=image/jpeg&tag=02HOHmnyRCKuMhtWOUMUbzV90bC0bfeqf-pZO0rc6aSxNXdvPwWAHM7g",
+    "genre": "House",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=9FF926D8EDEC15F6&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02DxpfsFjMHbmCxV3jKzJSWrrK6vQU6fZfaGtD0TYrJHMV5q0T9Dd4XQ"
+  },
+  {
+    "track_title": " Month of May",
+    "mood": "Rowdy",
+    "artist_name": "Arcade Fire",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=A334F25D5D851FE2&client=2711808&class=image&size=medium&type=image/jpeg&tag=02w2dDqk5rtQkOCodJN54qtATCtLGE4IhMMj.wCoLUNjAWArSMHkCREg",
+    "genre": "Indie Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=0416669063E29EDC&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02S3QRuJc72xHXjbAqujyxrMqDm-nWVp27M9bCzLLc5gmvz0yDssCwnA"
+  },
+  {
+    "track_title": " Tempest",
+    "mood": "Excited",
+    "artist_name": "Lucius ",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=9179A95BFC6DAD66&client=2711808&class=image&size=medium&type=image/jpeg&tag=02ZGY284Ef-XAsoao1P3jXGKiLjqTk.ZnVEwl90XkIiyMa-xBk0uWtUQ",
+    "genre": "Jungle/Drum 'n' Bass",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=720AB0DCA74B2DCE&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=020HX1-v622KEamftc99OP0AmD.wfHXpUm9-BXGR4pdGBA.WKHeBzEgg"
+  },
+  {
+    "track_title": " Since U Been Gone (Live at the Capitol)",
+    "mood": "Rowdy",
+    "artist_name": "A Day to Remember",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=3F0397E1C1698DED&client=2711808&class=image&size=medium&type=image/jpeg&tag=02-jyUwOZX5bCxNPLoKSufVnIqUhdvMSFI8rOLpLKmirccS1ReiVbW0w",
+    "genre": "Punk",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=48163FE1F9DD587A&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02cJpiEOvFVBJZErod4-mlSeX.7uCIWqp0QjKxXunCbw9t6JHyWbrBtA"
+  },
+  {
+    "track_title": " I've Seen Footage",
+    "mood": "Defiant",
+    "artist_name": "Death Grips",
+    "artist_image": "",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=19E5FE7944117963&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02NUy7st-GXgr5cZ1FQpFdljhIZFnH4aKF0sNlcKl5kYzKLxgs8qLsWA"
+  },
+  {
+    "track_title": " The Wire",
+    "mood": "Empowering",
+    "artist_name": "HAIM",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=8FDE36D25F0BF960&client=2711808&class=image&size=medium&type=image/jpeg&tag=02VlY8gURwM2iZV-dvYsxII2lsyXYp81vet1FJnz0srTDNvt4bWg8TUw",
+    "genre": "Adult Alternative Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=D85A9E6240F59E0A&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=027C4eEA05eLOqnUIFXpjVjA7k9SOnm9.rEM8FjKBjEy75dHM4xVe7rA"
+  },
+  {
+    "track_title": " Sirens",
+    "mood": "Energizing",
+    "artist_name": "Pearl Jam",
+    "artist_image": "",
+    "genre": "Contemporary R&B/Soul",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=31C3CF8B51B213F0&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02BYrSFdtT.Jj0yh0--jS5eCxOXw-nuTufpx3JtCbnDf.a-i9nkCPOVw"
+  },
+  {
+    "track_title": " Clean",
+    "mood": "Brooding",
+    "artist_name": "Depeche Mode",
+    "artist_image": "",
+    "genre": "Synth Pop",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=45D3D90E59791CA4&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02WuCteGP16BbeA4VErc9ntTvi5p.OidH6s.rp7CmaO.1HyIVlJDxdOg"
+  },
+  {
+    "track_title": " Endorphins (feat. Alex Clare)",
+    "mood": "Energizing",
+    "artist_name": "Sub Focus ",
+    "artist_image": "",
+    "genre": "Trance",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=326D3841B90BE575&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02yeJXXpkhqhH2swHZpIf1JA61lgVqWN8RC3ESb9UjJxpUj-eb9.rlhQ"
+  },
+  {
+    "track_title": " As We Collide",
+    "mood": "Excited",
+    "artist_name": "Christian Burns",
+    "artist_image": "",
+    "genre": "Trance",
+    "album_art": ""
+  },
+  {
+    "track_title": " Nearly Lost You",
+    "mood": "Rowdy",
+    "artist_name": "Screaming Trees ",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=86DA3DABECA8E05B&client=2711808&class=image&size=medium&type=image/jpeg&tag=02YkQIeAt-TEVQrdVnTZqbRgFE.E07Kpzi9zuGDZs3..4VeNhji7tT4g",
+    "genre": "Alternative",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=F1E4F496D4D5B4FD&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02UKRpmF.2o4y.MIA1GNWUPiWiblE.rHy0xqsYa9A0cnQerI6mXOpYxg"
+  },
+  {
+    "track_title": " Early Morning Rain",
+    "mood": "Empowering",
+    "artist_name": "Paul Weller",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=840829B7351673BD&client=2711808&class=image&size=medium&type=image/jpeg&tag=02Az8-P118qBwCTIloDqdAHJrv3UpDPatnYGMAMjGX6qOeB0Jq6BSvkQ",
+    "genre": "Brit Pop",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=CCAEEAC7256BD121&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02xGF1i6ZbgzXbm-M8dQCpRE2UxlZ2QIkpue9KANNFnsOypeCw6BKcOg"
+  },
+  {
+    "track_title": " Midnight In a Perfect World",
+    "mood": "Brooding",
+    "artist_name": "DJ Shadow",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=B4FBF72EDAC0B020&client=2711808&class=image&size=medium&type=image/jpeg&tag=02LXZBYAZFuhLcxie8AFCTKUvSDKY4KhTdgEGHmzF1WsuV0ngncSILFg",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=48AD1DDDC86C67A1&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02QfrtUA4R9f464NBcPis-09AxDc3ayhdGbvk8yFfSa8vmfLWuFpqN6g"
+  },
+  {
+    "track_title": " Across the Borderline",
+    "mood": "Romantic",
+    "artist_name": "Ry Cooder",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=4A5C839A00A6FF73&client=2711808&class=image&size=medium&type=image/jpeg&tag=025BzacVXqq2zGz-ditw8pZnpenn.5r1EHz3LWNJF39vVrBm6Yz9zkpA",
+    "genre": "Alternative Roots",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=06C2D99A9F155BCA&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02LzMGFJojxOq6D2I0Cv0DPYyocSo9dKk9z7lYNJC33fDdz6W9by6FyA"
+  },
+  {
+    "track_title": " Summer Girls",
+    "mood": "Aggressive",
+    "artist_name": "LFO ",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=FC62CB3D83AC4103&client=2711808&class=image&size=small&type=image/jpeg&tag=02idrk9HmY5AHm36dU9JtvK6A9Z1eRVIffwMjxYwxW7RukkXPA4vYEgQ",
+    "genre": "Western Pop",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=E732090FD89A76B0&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02CdnHJYOm3O8SD.UT0TzHMLILOFRwsyfkPFMnrawQaB3vqF3ivhfTDQ"
+  },
+  {
+    "track_title": " Somewhere With You",
+    "mood": "Yearning",
+    "artist_name": "Kenny Chesney",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=E49B6BC68D8BB85C&client=2711808&class=image&size=medium&type=image/jpeg&tag=02Im-L7l0yWhG0cJvkT7FIDTfK8o4aP2xjXTn-ZM5XL-gds8ag3ulLEQ",
+    "genre": "Country",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=4CC78D6D6674132F&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02W.PMngTMl8rgeZaGkygy-bgLWl9Pywm0vkHZj2ljoK8r7-U6d6GPgA"
+  },
+  {
+    "track_title": " Team",
+    "mood": "Rowdy",
+    "artist_name": "Lorde",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=B041A18618941849&client=2711808&class=image&size=medium&type=image/jpeg&tag=02uxXHkLAlcJ6GJNl7tXjf3ylHt4cIyJqgyBWq80Osn.1w2R-mLl4lzw",
+    "genre": "Comedy",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=B3C7BA4453EA422D&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02MWfjxaRnRz7zo1Wwc5eGZi5-1y0miI7mZAZHTz5eTQmLAumGapovow"
+  },
+  {
+    "track_title": " Instant Crush (feat. Julian Casablancas)",
+    "mood": "Sensual",
+    "artist_name": "daft punk",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=49A69659AC09CEF7&client=2711808&class=image&size=medium&type=image/jpeg&tag=02oW4iO6ZvW6-gz325rqueqIpCWWSLIQFwwXtXTGl6OwzmwRux-JarQg",
+    "genre": "House",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=A13FBC657E9B2879&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02Uy0mVkM6zHDNf28vCl46mlH0dxweUyNT9R6seC5ISeMemZe.AS70WA"
+  },
+  {
+    "track_title": "",
+    "mood": "",
+    "artist_name": "@daftpunk cc: @petpanda1 ",
+    "artist_image": "",
+    "genre": "Data & Other",
+    "album_art": ""
+  },
+  {
+    "track_title": " Memories",
+    "mood": "Excited",
+    "artist_name": "David Guetta",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=711782C9C83C80C8&client=2711808&class=image&size=medium&type=image/jpeg&tag=021vWGS5EEaIEgghYkwUVSIp.T-g3QILFLGYWBDeRS2TSD.M-EnY0hXg",
+    "genre": "Western Pop",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=6285F84C9619AA65&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02SFsTvArD6h3D3ExKKK1ebKypdDM0hPhq7MPsT1yEuFPN3cEjc18QiQ"
+  },
+  {
+    "track_title": " Crush",
+    "mood": "Sensual",
+    "artist_name": "Zhané ",
+    "artist_image": "",
+    "genre": "Dance & Club",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=8F8D178527FDA646&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=026ZTbQ3pqLgPLA-W9mPhoN2Vb73OKBRj6Gkn4OotwXFFRCBWFfvXosA"
+  },
+  {
+    "track_title": " Cross My Mind",
+    "mood": "Energizing",
+    "artist_name": "Twin Forks",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=E6F8814A86CEB80C&client=2711808&class=image&size=medium&type=image/jpeg&tag=025CVEdNfoMfhV6cdZIBN4zLmDL4CeKIt8ED8n2mXM2hHKEgOrxNyRgw",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": ""
+  },
+  {
+    "track_title": " Ace of Spades",
+    "mood": "Defiant",
+    "artist_name": "Official Motörhead",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=6F115BFCDA2A1E6D&client=2711808&class=image&size=medium&type=image/jpeg&tag=02DSe1iItvF5MfP7dCS8T1Vyxm4tEFDBWI6rWelNUbA1vUAg0FTDoc4w",
+    "genre": "Metal",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=6C74274A9854D832&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02V6-7-FwnX5Mjp.uYDPBIlcxLKh0d-YpVmzv37KkcP2KRhgU4tHgvEA"
+  },
+  {
+    "track_title": " Amazing Grace (My Chains Are Gone)",
+    "mood": "Gritty",
+    "artist_name": "Chris Tomlin",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=F92E07146A58EA1A&client=2711808&class=image&size=medium&type=image/jpeg&tag=02mQL-x7phHSaaGo3XTUSY3YnsN8UBUH3TStBypq7z4QNEXpfGFq4o.g",
+    "genre": "Religious",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=CC69DDD400F12440&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02f0Nn3XLmZ3ueH5na8KvxTjerN-fN.Ew9sdV8XjfYf4hmopoQtuc-Fw"
+  },
+  {
+    "track_title": " You're All I Have",
+    "mood": "Defiant",
+    "artist_name": "Snow Patrol",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=98A056D77D0FDC1B&client=2711808&class=image&size=medium&type=image/jpeg&tag=02Ac90SVbjWMXKFiNBGAP5roOkNwONP3Kf-EbW93lc7S61uOXzgsTY1g",
+    "genre": "Brit Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=AB64E9FF113702BF&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02-LZtyxvq7.lcoyYqT9sxP7j4CbtrZ4wU9IKjo.CqTM3d66ZZBKQ.Pg"
+  },
+  {
+    "track_title": " Everybody Oughta Make A Change (LP Version)",
+    "mood": "Upbeat",
+    "artist_name": "Eric Clapton ",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=5772CCE3463EDDA2&client=2711808&class=image&size=medium&type=image/jpeg&tag=02lRicLnI.FkLMfKQ6dPuyXvC7FPMpWZypctZG6hoN133fBdmkwVVKow",
+    "genre": "Western Pop",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=E04D77B5BF608BC0&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02il5P5k8Cu1gJL1LgmoO7O-vNBbS-4X2o1066ugzwTRJ2QpciNT1vEA"
+  },
+  {
+    "track_title": " UnFresh (feat. Flave)",
+    "mood": "",
+    "artist_name": "Andy Allo",
+    "artist_image": "",
+    "genre": "Contemporary R&B/Soul",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=1B24A8BF7BB0A43A&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02BylvmqPC2AQjgd2izHCZW95mxq8ZG.p-tNWbBsVSTkxYMv3Y87M-pw"
+  },
+  {
+    "track_title": " Get Innocuous!",
+    "mood": "Energizing",
+    "artist_name": "lcdsoundsystem",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=21CCAAC7697D7098&client=2711808&class=image&size=medium&type=image/jpeg&tag=02RDrOVrQWZWt5E3ITDRk4c05hYxUxzei6CLLrscOrAthqkoibV1k4ZQ",
+    "genre": "Indie Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=619B342E1F033946&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=020v0I1Xy9AVZE2eSCSyOFfWf.1keGEMrt72bhYSXWiBhi.zRKCyJK-g"
+  },
+  {
+    "track_title": " Inteligencia Dormida",
+    "mood": "Cool",
+    "artist_name": "Pedropiedra ",
+    "artist_image": "",
+    "genre": "Western Pop",
+    "album_art": ""
+  },
+  {
+    "track_title": " It's Raining",
+    "mood": "Stirring",
+    "artist_name": "Irma Thomas ",
+    "artist_image": "",
+    "genre": "Classic R&B/Soul",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=1C6E6B37E228ADBA&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02LeI-oNGMu8uFm9XyFdsIJ.GGEcF.8bArxtOViCUVm-4TtGqal.I0SA"
+  },
+  {
+    "track_title": " Cold White Christmas",
+    "mood": "Melancholy",
+    "artist_name": "Casiotone for the Painfully Alone ",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=0BD51AC561CFD08E&client=2711808&class=image&size=medium&type=image/jpeg&tag=02QSC89bfiL9HxN.V6josjUDVL5pcLtjHTgbQr6bN2HwlqQp5AEtxoGQ",
+    "genre": "Synth Pop",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=3628F3A4A3EDA520&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02kNKBee1oktqELH.wa43qQWh87Pk.mf5i3Du9XAdQuJP0V76nq21Sxg"
+  },
+  {
+    "track_title": " Happy Birthday",
+    "mood": "Upbeat",
+    "artist_name": "Stevie Wonder",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=0FFCE0CE897F3A84&client=2711808&class=image&size=medium&type=image/jpeg&tag=02huydVO6ekaYLYUME99h-HteM0myWE-K6H1R5bZEQmQWzH.gM1J0pNA",
+    "genre": "Classic R&B/Soul",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=DB255920553D3E17&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02jtyokkwHg8ipjBN-.zavV0zcmwz1JtFM3pR6QQt9nofsJLy-HvuZBw"
+  },
+  {
+    "track_title": " From Time (feat. Jhene Aiko)",
+    "mood": "Sensual",
+    "artist_name": "Drizzy",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=F5059BD9C91C231C&client=2711808&class=image&size=medium&type=image/jpeg&tag=024b5nO.0EdGalYlKeAym4pkkCxZYu8stkLgbfnwDjKInAekEd.B-iQA",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": ""
+  },
+  {
+    "track_title": " 523",
+    "mood": "Stirring",
+    "artist_name": "DORIS UNSTOPPABLE",
+    "artist_image": "",
+    "genre": "Classic R&B/Soul",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=B1C69FDA0F9CED7F&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02otyqSedawnsk6fhYGTt4dnLkBrmKwjksjABmiIStkkkpEYOQdACMrg"
+  },
+  {
+    "track_title": " Sandwitches (feat. Hodgy Beats)",
+    "mood": "Cool",
+    "artist_name": "Tyler, The Creator",
+    "artist_image": "",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=5645B603FEC26247&client=2711808&class=cover&origin=front&size=thumbnail&type=image/jpeg&tag=02yQHSfPVa3xgUqCrNNrLq9HVKZCtiPRmHOHJB1UplJB9kkGWZGU6qqQ"
+  },
+  {
+    "track_title": " Big Bad Wolf",
+    "mood": "Energizing",
+    "artist_name": "Duck Sauce",
+    "artist_image": "",
+    "genre": "House",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=6455A63882FF5CAF&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02IsG8yZnJbgRUI8W-pu9mMGC5zLtCHYv.f2LZsaZHcSCot8IsFPDYxg"
+  },
+  {
+    "track_title": " How Many Drinks?",
+    "mood": "Brooding",
+    "artist_name": "Miguel",
+    "artist_image": "",
+    "genre": "Contemporary R&B/Soul",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=E673242D24F1671D&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02kvENzadEKYw4i7Gp3hrAzUuR-uH2Q4F9g2LRwF6iwawW5izMvH218w"
+  },
+  {
+    "track_title": " Woo Woo Swag",
+    "mood": "Defiant",
+    "artist_name": "Lil B",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=6A406543BC675E0A&client=2711808&class=image&size=medium&type=image/jpeg&tag=02D-Ca5HYNYJvYZiiBHmcSyac5Eg241LsGz9Rr6gf6HC4b4gcsI1QFsg",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=BC2E5C6D5DFBD63E&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02BQmeShqDA754wd7hBen9oD.0kGYCTfAydudNxqkZIPA7cUhOxdGyMw"
+  },
+  {
+    "track_title": " Stay the Night (feat. Hayley Williams of Paramore)",
+    "mood": "Rowdy",
+    "artist_name": "Zedd",
+    "artist_image": "",
+    "genre": "Western Pop",
+    "album_art": ""
+  },
+  {
+    "track_title": " I Wanna Make Love With U",
+    "mood": "Energizing",
+    "artist_name": "Cats cc: @naldikt ",
+    "artist_image": "",
+    "genre": "Dance & Club",
+    "album_art": ""
+  },
+  {
+    "track_title": " Heart of the Sunrise",
+    "mood": "Brooding",
+    "artist_name": "Yes",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=365C8CA1C3D02487&client=2711808&class=image&size=medium&type=image/jpeg&tag=02QcOZHZU1PsQMvYayvRVmsf6YEzX0WJmmvrOetRF57QWYoEHY60GsRg",
+    "genre": "70's Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=DC9DC149BF8EF1D8&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02EwbDPAK-zGLOs3JPyyHl0l5lgP8u5kPivI7Kos1s6.MptHCLq3qVjg"
+  },
+  {
+    "track_title": " I Sold My Bed, But Not My Stereo",
+    "mood": "Excited",
+    "artist_name": "Capital Cities",
+    "artist_image": "",
+    "genre": "Indie Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=BB120FB737A5B888&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02MTriS-P2myGrDV4.0gKnFJm.nYBnMIvZFB6Ujc8QcSovyfz2wCkcGA"
+  },
+  {
+    "track_title": " Nightrain",
+    "mood": "Rowdy",
+    "artist_name": "Guns N' Roses",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=DB236068B69BF8A4&client=2711808&class=image&size=medium&type=image/jpeg&tag=02giinx7LCHWKgm7XOBN5XsD7U3v97ktXIi7rR5tkvQ2aOVyK4SoGK0Q",
+    "genre": "Hard Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=70593BCAC30B234A&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=020sIF1jEtXMe8uo6RCKm9vtxAQQ8k2eAHxDCiJqgfvxsNIlmXXD9UjQ"
+  },
+  {
+    "track_title": " Too Much",
+    "mood": "Brooding",
+    "artist_name": "Drizzy",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=88BA3A1DBE8D02FE&client=2711808&class=image&size=medium&type=image/jpeg&tag=02CADETZ0GPHVvp-EDmuJNRWOHm7rqW.lsfPvGWwn1fl2Xw36PbhwDKg",
+    "genre": "Western Pop",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=A3F8E828FA09D382&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02i3SvSxCFWKNGGOcOnWi5BnsfSuImOwPKy2dDSVumgsFgGtvTJdPC8w"
+  },
+  {
+    "track_title": " El Árbol Magnético Ataca por Sopresa",
+    "mood": "Upbeat",
+    "artist_name": "Dënver ",
+    "artist_image": "",
+    "genre": "70's Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=AA255AB5CA639106&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02skxQ58w9qHbFBFjGDo6zOKtfWQhLxdOefzXs6kU0rMwDgwQ-MUkm8A"
+  },
+  {
+    "track_title": " The Angels' Share",
+    "mood": "Defiant",
+    "artist_name": "Pharmacists & Ted Leo ",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=73B81DD1DE8C70D9&client=2711808&class=image&size=medium&type=image/jpeg&tag=02CVYis07TdlRuM13ysfCOTk6aJnUJ4YjxZjOt5Y3kzHGWW3eg-duXqA",
+    "genre": "Emo & Hardcore",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=71AA6852DB3ACA8F&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02zjz.KwgnQq4AbT2s4P2fu3rBQEFdBcSSOZ5zfiC9h0VEF2zuvae3xg"
+  },
+  {
+    "track_title": " Whiskey Days",
+    "mood": "Empowering",
+    "artist_name": "JB and the Moonshine Band",
+    "artist_image": "",
+    "genre": "Classic Country",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=E4F96A7773D1BD6B&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02uFBy3dP9h7mgity.GJbUy9nx0zKUK1jgOHtzV3f0jJbAjT7j59zqRQ"
+  },
+  {
+    "track_title": " Karma",
+    "mood": "Cool",
+    "artist_name": "The Black Eyed Peas",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=9873EFA767F280DA&client=2711808&class=image&size=medium&type=image/jpeg&tag=02dtfgAL7yz.na0bRBoj1WQ.Y.p2ukithUBmn8JURcWXooUg4VcB45xQ",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=2D586489CF229D43&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02rqwz61vo6xyDxyKyYXTDCGUawWvjxCI.TJUpMu28l0hbRt0b88KX0Q"
+  },
+  {
+    "track_title": " Hold On",
+    "mood": "Energizing",
+    "artist_name": "NERVO ",
+    "artist_image": "",
+    "genre": "Dance & Club",
+    "album_art": ""
+  },
+  {
+    "track_title": " Too Shy",
+    "mood": "Urgent",
+    "artist_name": "Kajagoogoo",
+    "artist_image": "",
+    "genre": "New Wave Pop",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=F5907E6DA5822D4E&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02zaDSeGKB9O2XKEou-PYwLM.u2p9swTJTzx8DEzqENemKS6dkPz7VEQ"
+  },
+  {
+    "track_title": " DNA",
+    "mood": "Yearning",
+    "artist_name": "Empire of the Sun",
+    "artist_image": "",
+    "genre": "Indie Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=77016588163E5F46&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02Vp6iUl60uqtjVc.jioHGB2EHCAmTMCj02PbwK4.osviyrCxk4oDxTg"
+  },
+  {
+    "track_title": " La mer",
+    "mood": "Empowering",
+    "artist_name": "Rockabye Baby!",
+    "artist_image": "",
+    "genre": "Children's",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=4A52A6AE32B0C928&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02wU0RX2K4ZvZCdzIXgMjKkuxZZGzkKNuhI9XaTcjEmJ0hDv4qZ78ngg"
+  },
+  {
+    "track_title": "",
+    "mood": "",
+    "artist_name": "SMASH Cast ",
+    "artist_image": "",
+    "genre": "Original Film/TV Music",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=7F781B07BDC3CAED&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02D6INydlgxHM9fuNyQyTp8YTBjhGXMDfZYkvZTb--3u87r-i7JGGLsA"
+  },
+  {
+    "track_title": " Slave to Love (7 Version) [Remastered 2009]",
+    "mood": "Upbeat",
+    "artist_name": "Bryan Ferry ",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=5100992AED15B7D8&client=2711808&class=image&size=medium&type=image/jpeg&tag=02QULZ8hqtMxbcUzYFYZsVsmdpObulHADknyTZiV4DK52TzreLTrrQJA",
+    "genre": "New Romantic",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=5D2A7E1DCF09101A&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02s5UMBYIe-uNSejBXGsLdFDbGMnajRrl4ego.ntSud9hJGdrca0etLA"
+  },
+  {
+    "track_title": " Push",
+    "mood": "",
+    "artist_name": "Pepper ",
+    "artist_image": "",
+    "genre": "Mainstream Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=DE5AB45BE5A88701&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=021c7jmdweXmJMhjzATuZuITddaWQIEVQrcfA4k7jxUZsrlPG-yCHuUg"
+  },
+  {
+    "track_title": " Killer",
+    "mood": "Urgent",
+    "artist_name": "The Ready Set ",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=9C15AFF84E23B99B&client=2711808&class=image&size=medium&type=image/jpeg&tag=02Na6iUP-MF6QzmkDt0uTJftS.0btW2PAq.C.0B2WxcofZbtJFRocuiw",
+    "genre": "Indie Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=BEB0661AC89312A6&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02YpTrnTQzp7qWFY3qG6IAVQ42tZXqjpfXR7bYxx.JlGjmI9dvOZVA2Q"
+  },
+  {
+    "track_title": " Electric Avenue",
+    "mood": "Excited",
+    "artist_name": "Eddy Grant",
+    "artist_image": "",
+    "genre": "Reggae",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=3092B2B3D84125CD&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=029.2RAJfRRp4S4RG3Iczp5kq7SudMYZUskyFs-OikGnLAd5EyGYF-rA"
+  },
+  {
+    "track_title": " Promises",
+    "mood": "Excited",
+    "artist_name": "Nero",
+    "artist_image": "",
+    "genre": "Dubstep",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=362FC454D82D2ED7&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02QnfKY7S2rnUQdcvYE0XppBRu9Vf31jNvLef5K7L1aeCcVZuD4xQraQ"
+  },
+  {
+    "track_title": " Back to Black",
+    "mood": "Cool",
+    "artist_name": "Beyoncé & André 3000",
+    "artist_image": "",
+    "genre": "Contemporary R&B/Soul",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=FA2F01A3673FD310&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=028qtqmq1QehsTN4NyTK2Uo7.evxyCKFqm1olNqX5v6l4ECe8FiTqwrw"
+  },
+  {
+    "track_title": " Summertime Sadness",
+    "mood": "Urgent",
+    "artist_name": "Lana Del Rey",
+    "artist_image": "",
+    "genre": "Indie Rock",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=69D8BEBE312633BE&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02IE0NXai5DCFl9e7uPog5zIESBlcTU.ICPchWq96zVeB7lrmKxs84dg"
+  },
+  {
+    "track_title": " Sticks and Stones",
+    "mood": "Excited",
+    "artist_name": "Jason Reeves",
+    "artist_image": "",
+    "genre": "Western Pop",
+    "album_art": ""
+  },
+  {
+    "track_title": " We Run the Night (feat. Pitbull)",
+    "mood": "Excited",
+    "artist_name": "Havana Brown",
+    "artist_image": "",
+    "genre": "Western Pop",
+    "album_art": ""
+  },
+  {
+    "track_title": " You Don't Know Me (feat. Regina Spektor) [Seeds Version]",
+    "mood": "Yearning",
+    "artist_name": "Ben Folds",
+    "artist_image": "",
+    "genre": "Western Pop",
+    "album_art": ""
+  },
+  {
+    "track_title": " Odd Look",
+    "mood": "Yearning",
+    "artist_name": "@iamKavinsky cc: @atrak ",
+    "artist_image": "",
+    "genre": "Western Pop",
+    "album_art": ""
+  },
+  {
+    "track_title": " Take Me Home (feat. Bebe Rexha) [Chainsmokers Remix Radio Edit]",
+    "mood": "Energizing",
+    "artist_name": "Cash Cash ",
+    "artist_image": "",
+    "genre": "Classic Country",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=9F201260CF1740A3&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=025vleoYx3JLf1lbjcC6BgFOsa9veKEclWOhZ7XmZlnFTxjNUQQtK2yw"
+  },
+  {
+    "track_title": " Down in the Valley",
+    "mood": "Gritty",
+    "artist_name": "The Head & The Heart",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=A3A9D07E766E0A75&client=2711808&class=image&size=medium&type=image/jpeg&tag=02iC.AdHYci0O2YJ0GGJfelfE3T9bRPchk7mscf.psMQFateO6vhZx2w",
+    "genre": "Alternative Folk",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=D2F8DCE5CF93C714&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02cbNuaYB4jXuNLZtVqhAxhDW4wLpkXssFJ4fFAdApHW7ooiyHvEGI1A"
+  },
+  {
+    "track_title": " Slow Down",
+    "mood": "Fiery",
+    "artist_name": "Brand Nubian ",
+    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=684E606A1C79E052&client=2711808&class=image&size=medium&type=image/jpeg&tag=02NpPn9eat3WvAmxXYG-nyvyxFCGOD3rkvXXzXYqX5Sc6ZLpZ56tQD1g",
+    "genre": "Western Hip-Hop/Rap",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=D0861E63CC4B83CB&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=028BpXLMivDbXohVhpesBQZjRuSMUFe7EsG9C.19tq5IkkfMb6oEATOw"
+  },
+  {
+    "track_title": " Over Our Heads",
+    "mood": "Melancholy",
+    "artist_name": "Jon Brion ",
+    "artist_image": "",
+    "genre": "Original Film/TV Music",
+    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=034001599AB8784E&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02kMo3dhE1LbtCeBiOXGCBJOB5cfzxMvSAWq7yujkSDLdoV1HqJGqVxw"
+  }
+]
