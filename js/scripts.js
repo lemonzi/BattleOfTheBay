@@ -23,9 +23,11 @@ function processTweets(endpoint, container, filter) {
         filter || (filter = filters.aggressive);
         var score = 0;
         var t = container.find('.tweets');
-        t.html('')
+        t.html('');
         data.forEach(function(tweet) {
             if (! filter(tweet)) return;
+            score++;
+            if (score > 10) return;
             if (! tweet.artist_image)
                 tweet.artist_image = tweet.album_art || 'img/null.png';
             if (! tweet.message)
@@ -65,13 +67,13 @@ function processTweets(endpoint, container, filter) {
                     });
                 }
             });
-            score++;
         });
         setTimeout(function(){
             score = 100 * score / data.length;
             animateKnob(container.find('.dial'), score);
         },1);
 
+        $('.play').unbind('click');
         $('.play').click(function() {
             var that = $(this);
             console.log('playing...');
@@ -87,6 +89,7 @@ function processTweets(endpoint, container, filter) {
             });
         });
 
+        $('.stop').unbind('click');
         $('.stop').click(function() {
             var that = $(this);
             console.log('stopping...');
@@ -170,8 +173,8 @@ var filters = {
     folk : function (tweet) {
         return tweet.genre.indexOf('Folk') > -1;
     },
-    reggeae : function (tweet) {
-        return tweet.genre.indexOf('Reggeae') > -1;
+    reggae : function (tweet) {
+        return tweet.genre.indexOf('Reggae') > -1;
     },
     classical : function (tweet) {
         return tweet.genre.indexOf('Classical') > -1;
