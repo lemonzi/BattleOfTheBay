@@ -1,41 +1,22 @@
-$(function(){
+$(function() {
 
     $('.dial').knob();
 
-    processTweets('data/sfo.json', $('.san-francisco'));
-    processTweets('data/oak.json', $('.oakland'));
-
-    $('.play').click(function() {
-        console.log('playing...');
-        R.ready(function() {
-            R.player.play({source: this.attr('data-key')});
-            this.addClass('hidden');
-            this.parent().find('.stop').removeClass('hidden');
-            this.parent().find('.loading').addClass('hidden');
-        });
-    });
-
-    $('.stop').click(function() {
-        console.log('stopping...');
-        R.ready(function() {
-            R.player.paus();
-            this.addClass('hidden');
-            this.parent().find('.play').removeClass('hidden');
-            this.parent().find('.loading').addClass('hidden');
-        });
-    });
-
     $('.filter').change(function() {
-        var f = filters[this.val()];
+        var f = filters[$(this).val()];
+        console.log(f);
         processTweets('data/sfo.json', $('.san-francisco'), f);
         processTweets('data/oak.json', $('.oakland'), f);
     });
 
+    $('.filter').val('aggressive');
+
 });
+
 
 function processTweets(endpoint, container, filter) {
 
-    container.find('.tweets').html('');
+    //container.find('.tweets').html('');
     $.getJSON(endpoint, function(data) {
         filter || (filter = filters.aggressive);
         var score = 0;
@@ -86,6 +67,28 @@ function processTweets(endpoint, container, filter) {
         setTimeout(function(){
             animateKnob(container.find('.dial'), score);
         },1);
+
+        $('.play').click(function() {
+            var that = this;
+            console.log('playing...');
+            R.ready(function() {
+                R.player.play({source: $(that).attr('data-key')});
+                $(that).addClass('hidden');
+                $(that).parent().find('.stop').removeClass('hidden');
+                $(that).parent().find('.loading').addClass('hidden');
+            });
+        });
+
+        $('.stop').click(function() {
+            var that = this;
+            console.log('stopping...');
+            R.ready(function() {
+                R.player.pause();
+                $(that).addClass('hidden');
+                $(that).parent().find('.play').removeClass('hidden');
+                $(that).parent().find('.loading').addClass('hidden');
+            });
+        });
 
     });
 }
