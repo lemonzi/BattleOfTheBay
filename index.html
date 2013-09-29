@@ -23,83 +23,50 @@
 	<script type="text/javascript" src="js/jquery.min.js"></script>
 	<script type="text/javascript" src="js/jquery.knob.js"></script>
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
+	<script type="text/javascript" src="js/underscore-min.js"></script>
 	<script type="text/javascript" src="js/scripts.js"></script>
+
+	<script type="text/template" id="tweet">
+		<div class="media tweet well">
+		  <a class="pull-left" href="#">
+		    <img class="media-object avatar" src="<%=img%>">
+		  </a>
+		  <div class="media-body">
+		    <h4 class="media-heading"><%=title%> - <%=artist%></h4>
+		    <%=message%>
+		  </div>
+		</div>
+	</script>
 </head>
 
 <body>
 <div class="container">
-	<div class="row">
-		<div class="col-xs-12">
-			<h1 class="text-center">
-				Battle of the Bay
-			</h1>
-			<select class="form-control">
-				<option value="aggressive">Aggressive</option>
-				<option value="hippie">Hippie</option>
-			</select>
-		</div>
+	<div class="well" style="margin: 0 auto; width: 400px">
+		<h1 class="text-center">
+			Battle of the Bay
+		</h1>
+		<select class="form-control" style="width:200px; margin: 0 auto">
+			<option value="aggressive">Aggressive</option>
+			<option value="hippie">Hippie</option>
+		</select>
 	</div>
 	<div class="row">
 		<div class="col-xs-6">
-			<h2>
-				San Francisco
-			</h2>
-			<div class="san-francisco"></div>
-			<input type="knob" value="50" class="dial" data-readOnly=true data-thickness=".4" data-width="200px"></input>
+			<div class="san-francisco text-center">
+				<h2 class="panel">San Francisco</h2>
+				<div class="knob-container">
+					<input type="knob" value="0" class="dial" data-readOnly=true data-thickness=".4" data-width="200px" data-linecap=round data-bgColor="#eebb00" data-fgColor="#cc0000"></input>
+				</div>
+				<div class="tweets text-left"></div>
+			</div>	
 		</div>
 		<div class="col-xs-6">
 			<div class="oakland text-center">
 				<h2 class="panel">Oakland</h2>
 				<div class="knob-container">
-					<input type="knob" value="50" class="dial" data-readOnly=true data-thickness=".4" data-width="200px" data-bgColor="#aaaaaa" data-fgColor="#000000"></input>
+					<input type="knob" value="0" class="dial" data-readOnly=true data-thickness=".4" data-width="200px" data-linecap=round data-bgColor="#aaaaaa" data-fgColor="#000000"></input>
 				</div>
-				<div class="tweets text-left">
-					<div class="media tweet well" style="margin:5px; padding: 5px">
-					  <a class="pull-left" href="http://spoti.fi">
-					    <img class="media-object avatar" src="/img/null.png">
-					  </a>
-					  <div class="media-body">
-					    <h4 class="media-heading">Awesome Song - Artist Name</h4>
-					    This is awesome! check it out
-					  </div>
-					</div>
-					<div class="media tweet well" style="margin:5px; padding: 5px">
-					  <a class="pull-left" href="http://spoti.fi">
-					    <img class="media-object avatar" src="/img/null.png">
-					  </a>
-					  <div class="media-body">
-					    <h4 class="media-heading">Awesome Song - Artist Name</h4>
-					    This is awesome! check it out
-					  </div>
-					</div>
-					<div class="media tweet well" style="margin:5px; padding: 5px">
-					  <a class="pull-left" href="http://spoti.fi">
-					    <img class="media-object avatar" src="/img/null.png">
-					  </a>
-					  <div class="media-body">
-					    <h4 class="media-heading">Awesome Song - Artist Name</h4>
-					    This is awesome! check it out
-					  </div>
-					</div>
-					<div class="media tweet well" style="margin:5px; padding: 5px">
-					  <a class="pull-left" href="http://spoti.fi">
-					    <img class="media-object avatar" src="/img/null.png">
-					  </a>
-					  <div class="media-body">
-					    <h4 class="media-heading">Awesome Song - Artist Name</h4>
-					    This is awesome! check it out
-					  </div>
-					</div>
-					<div class="media tweet well" style="margin:5px; padding: 5px">
-					  <a class="pull-left" href="http://spoti.fi">
-					    <img class="media-object avatar" src="/img/null.png">
-					  </a>
-					  <div class="media-body">
-					    <h4 class="media-heading">Awesome Song - Artist Name</h4>
-					    This is awesome! check it out
-					  </div>
-					</div>
-				</div>
+				<div class="tweets text-left"></div>
 			</div>	
 		</div>
 	</div>
