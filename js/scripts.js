@@ -5,8 +5,10 @@ $(function() {
     $('.dial').knob();
 
     $('.filter').change(function() {
-        R.player.pause();
-        isPlaying = null;
+        R.ready(function() {
+            R.player.pause();
+            isPlaying = null;
+        });
         var f = filters[$(this).val()];
         console.log(f);
         processTweets('data/sfo_merged.json', $('.san-francisco'), f);
