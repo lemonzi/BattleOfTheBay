@@ -1,74 +1,66 @@
+var sfoScore = 0;
+var oakScore = 0;
+
 $(function(){
 
-    $('.dial').knob({
+    $('.dial').knob();
+
+    $.getJSON('data/sfo.json', function(data) {
+
+        sfoScore = 0;
+        var t = $('.san-francisco .tweets');
+        data.forEach(function(tweet) {
+            if (! filters.aggressive(tweet)) return;
+            if (! tweet.artist_image)
+                tweet.artist_image = tweet.album_art || 'img/null.png';
+            if (! tweet.message)
+                tweet.message = 'Check this out!';
+            t.append(_.template($('#tweet').html(), tweet));
+            sfoScore++;
+        });
+
+        setTimeout(function(){
+            animateKnob($('.san-francisco .dial'), sfoScore);
+        },1);
 
     });
 
-    var tweets = [{
-        title: "song1",
-        artist: "artist1",
-        img: "img/null.png",
-        message: "Woow check this out!"
-    },{
-        title: "song1",
-        artist: "artist1",
-        img: "img/null.png",
-        message: "Woow check this out!"
-    },{
-        title: "song1",
-        artist: "artist1",
-        img: "img/null.png",
-        message: "Woow check this out!"
-    },{
-        title: "song1",
-        artist: "artist1",
-        img: "img/null.png",
-        message: "Woow check this out!"
-    },{
-        title: "song1",
-        artist: "artist1",
-        img: "img/null.png",
-        message: "Woow check this out!"
-    },{
-        title: "song1",
-        artist: "artist1",
-        img: "img/null.png",
-        message: "Woow check this out!"
-    }];
+    $.getJSON('data/oak.json', function(data) {
 
-    tweets.forEach(function(tweet) {
-        $(".tweets").append(_.template($('#tweet').html(), tweet));
+        oakScore = 0;
+        var t = $(".oakland .tweets");
+        data.forEach(function(tweet) {
+            if (! filters.aggressive(tweet)) return;
+            if (! tweet.artist_image)
+                tweet.artist_image = tweet.album_art || 'img/null.png';
+            if (! tweet.message)
+                tweet.message = 'Check this out!';
+            t.append(_.template($('#tweet').html(), tweet));
+            oakScore++;
+        });
+
+        setTimeout(function() {
+            animateKnob($('.oakland .dial'), oakScore);
+        },1);
+
     });
-
-    var oaklandKnob = $(".oakland").find(".dial");
-    animateKnob(oaklandKnob, 50);
-    
-    var sfKnob = $(".san-francisco").find(".dial");
-    animateKnob(sfKnob, 50);
 
 });
 
 
 function animateKnob (knob, value) {
     $({value: knob.val()}).animate({value: value}, {
-        duration: 1000,
-        easing:'swing',
+        duration: 2000,
+        easing:'easeOutCubic',
         step: function() {
             knob.val(Math.ceil(this.value)).trigger('change');
         }
     });
 }
 
-function getScore(tweets, map) {
-    var score = 0;
-    _.each(tweets, function(tweet) {
-        if (map(tweet)) score++;
-    });
-    return score;
-}
-
-var aggressive = function(tweet) {
-    return ['Aggressive', 'Brooding', 'Urgent', 'Defiant'].indexOf(tweet.mood) != -1;
-}
-
-
+var filters = {
+    aggressive : function(tweet) {
+        //return ['Aggressive', 'Brooding', 'Urgent', 'Defiant'].indexOf(tweet.mood) > -1;
+        return tweet.mood == 'Cool';
+    }
+};
