@@ -1,0 +1,21 @@
+body {
+	background-image:url('/img/map.png')!important;
+}
+
+.avatar {
+	width:50px;
+}
+
+.knob-container {
+	width:200px; 
+	height:200px;
+	padding: 20px;
+	margin:0 auto;
+	 background-color:#eeeeee; 
+	 border-radius:99999px
+}
+
+.tweet {
+	margin:5px; 
+	padding: 5px;
+}
