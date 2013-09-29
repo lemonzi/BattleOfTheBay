@@ -1,15 +1,17 @@
+var isPlaying = null;
+
 $(function() {
 
     $('.dial').knob();
 
     $('.filter').change(function() {
+        R.player.pause();
+        isPlaying = null;
         var f = filters[$(this).val()];
         console.log(f);
         processTweets('data/sfo.json', $('.san-francisco'), f);
         processTweets('data/oak.json', $('.oakland'), f);
     });
-
-    $('.filter').val('aggressive');
 
 });
 
@@ -21,6 +23,7 @@ function processTweets(endpoint, container, filter) {
         filter || (filter = filters.aggressive);
         var score = 0;
         var t = container.find('.tweets');
+        t.html('')
         data.forEach(function(tweet) {
             if (! filter(tweet)) return;
             if (! tweet.artist_image)
@@ -65,28 +68,33 @@ function processTweets(endpoint, container, filter) {
             score++;
         });
         setTimeout(function(){
+            score = 100 * score / data.length;
             animateKnob(container.find('.dial'), score);
         },1);
 
         $('.play').click(function() {
-            var that = this;
+            var that = $(this);
             console.log('playing...');
             R.ready(function() {
-                R.player.play({source: $(that).attr('data-key')});
-                $(that).addClass('hidden');
-                $(that).parent().find('.stop').removeClass('hidden');
-                $(that).parent().find('.loading').addClass('hidden');
+                R.player.play({source: that.attr('data-key')});
+                that.addClass('hidden');
+                that.parent().find('.stop').removeClass('hidden');
+                if (isPlaying && isPlaying != that) {
+                    isPlaying.parent().find('.stop').addClass('hidden');
+                    isPlaying.removeClass('hidden');
+                }
+                isPlaying = that;
             });
         });
 
         $('.stop').click(function() {
-            var that = this;
+            var that = $(this);
             console.log('stopping...');
             R.ready(function() {
                 R.player.pause();
-                $(that).addClass('hidden');
-                $(that).parent().find('.play').removeClass('hidden');
-                $(that).parent().find('.loading').addClass('hidden');
+                that.addClass('hidden');
+                that.parent().find('.play').removeClass('hidden');
+                isPlaying = null;
             });
         });
 
@@ -98,7 +106,7 @@ function animateKnob (knob, value) {
         duration: 2000,
         easing:'easeOutCubic',
         step: function() {
-            knob.val(Math.ceil(this.value)).trigger('change');
+            knob.val(Math.round(this.value)).trigger('change');
         }
     });
 }
@@ -113,6 +121,9 @@ var filters = {
     },
     rap: function(tweet) {
         return tweet.genre.indexOf('Rap') > -1;
+    },
+    empty: function(tweet) {
+        return false;
     }
 
 };
