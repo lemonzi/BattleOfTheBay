@@ -9,8 +9,8 @@ $(function() {
         isPlaying = null;
         var f = filters[$(this).val()];
         console.log(f);
-        processTweets('data/sfo.json', $('.san-francisco'), f);
-        processTweets('data/oak.json', $('.oakland'), f);
+        processTweets('data/sfo_merged.json', $('.san-francisco'), f);
+        processTweets('data/oak_merged.json', $('.oakland'), f);
     });
 
 });
@@ -184,6 +184,18 @@ var filters = {
     },
     rap: function(tweet) {
         return tweet.genre.indexOf('Rap') > -1;
+    },
+    pandora : function(tweet) {
+        return tweet.service == 'Pandora';
+    },
+    rdio : function(tweet) {
+        return tweet.service == 'Rdio';
+    },
+    soundtracking : function(tweet) {
+        return tweet.service == 'Soundtracking';
+    },
+    spotify : function(tweet) {
+        return tweet.service == 'Spotify';
     },
     empty: function(tweet) {
         return false;
