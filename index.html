@@ -20,6 +20,7 @@
 	<script type="text/javascript" src="js/jquery.knob.js"></script>
 	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/underscore-min.js"></script>
+	<script src="//www.rdio.com/api/api.js?client_id=TCVXnQNcX3sjMS-DoaxSAQ"></script>
 	<script type="text/javascript" src="js/scripts.js"></script>
 
 	<script type="text/template" id="tweet">
@@ -28,9 +29,11 @@
 		    <img class="media-object avatar" src="<%= artist_image%>">
 		  </a>
 		  <div class="media-body">
-		    <span class="pull-right glyphicon glyphicon-play lead"></span>
+		    <span class="pull-right glyphicon glyphicon-play lead hidden play"></span>
+		    <span class="pull-right glyphicon glyphicon-stop lead hidden stop"></span>
+		    <img src="img/loading.gif" class="pull-right lead loading"></img>
 		    <h4 class="media-heading"><%=track_title%> - <%=artist_name%></h4>
-		    <%=message%>
+		    <%=text%>
 		  </div>
 		</div>
 	</script>
@@ -44,7 +47,8 @@
 		</h1>
 		<select class="form-control" style="width:200px; margin: 0 auto">
 			<option value="aggressive">Aggressive</option>
-			<option value="hippie">Hippie</option>
+			<option value="cool">Cool</option>
+			<option value="rap">Rap</option>
 		</select>
 	</div>
 	<div class="row">

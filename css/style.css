@@ -1,6 +1,18 @@
 body {
-	background-image:url('../img/map.png')!important;
+	background-image:url('../img/map.png');
 	background-attachment: fixed;
+}
+
+.well {
+	border: 2px;
+	border-color: #000000;
+	border-style: solid;
+}
+
+.panel {
+	border: 2px;
+	border-color: #000000;
+	border-style: solid;	
 }
 
 .avatar {
@@ -19,4 +31,8 @@ body {
 .tweet {
 	margin:5px; 
 	padding: 5px;
+}
+
+.hidden {
+	display: none;
 }

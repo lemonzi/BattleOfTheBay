@@ -1,266 +1,299 @@
 [
-  {
-    "track_title": " Tonite",
-    "mood": "Cool",
-    "artist_name": "DJ Quik ",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=BC5082C824C601D0&client=2711808&class=image&size=medium&type=image/jpeg&tag=02o-Q9svzRYLnB.FIP1bG4RglVREC3YQhhdHXM2Aof.opFEr6TV6drnA",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=68333C98DFBB595B&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02SSuOE0QUT2-oKIow8xI2UoKnPQy9sEHz26Td5uRGlBD5Ma.s0MYRAg"
-  },
-  {
-    "track_title": " Party Ain't a Party",
-    "mood": "Energizing",
-    "artist_name": "Queen Pen ",
-    "artist_image": "",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=71336BCAE3915726&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=026sKl4DWXhOHdUzeyZ5gzL27ophc7atGMR2bSyzCAyuLgY0Qae2h28A"
-  },
-  {
-    "track_title": " Don't Mind",
-    "mood": "Sensual",
-    "artist_name": "Mary J. Blige",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=9E66B095349C73CE&client=2711808&class=image&size=medium&type=image/jpeg&tag=02OyDG9ZxVO24URC6agapq-2ASwfprAE7pGR71E8RH1wYyJQeqAJ02qw",
-    "genre": "Contemporary R&B/Soul",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=AC6CAC7B929BC5FD&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02s6ygkvSoXQCdcuFtHeEbRLEwOoP8uQk11iN-CE1wXORExr8QrXYu-w"
-  },
-  {
-    "track_title": " Big Poppa",
-    "mood": "Sensual",
-    "artist_name": "The Notorious B.I.G. ",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=FCEDCC3DB089848C&client=2711808&class=image&size=medium&type=image/jpeg&tag=02ZLo9e4iVP3aBYR21yLLASEeBjdVGwcbBpmXSDg2au1PptZHw6Y6hcA",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=5FA31F02FFA00EAA&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02xMkXZHeAei5sqSsvz4n-EtfCyulxCHa0bjFQgLUfx1i6lp4J-fDRQA"
-  },
-  {
-    "track_title": " Big Poppa",
-    "mood": "Sensual",
-    "artist_name": "The Notorious B.I.G. ",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=FCEDCC3DB089848C&client=2711808&class=image&size=medium&type=image/jpeg&tag=02Dz1PlXEr09F8pxqjRlw9V-jou-T8Lwyh7YXzncFxlIvWEiCujh4dGg",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=5FA31F02FFA00EAA&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02iAJ7f09yaxL2qt5jutCq7IL1apuhq3BFl0WOpUM0fMiwirgGokEU3w"
-  },
-  {
-    "track_title": " Feenin'",
-    "mood": "Sensual",
-    "artist_name": "Jodeci ",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=46835A9C57ADAE2F&client=2711808&class=image&size=medium&type=image/jpeg&tag=02RDNd037B.fZO1W7McfjtsFCP5tg7XjTVPEybv6Zk8tti3lYg8QEVBw",
-    "genre": "Contemporary R&B/Soul",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=BD6BFE4F70FE00AC&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02qiJQPiSDlnq0nkF9L-B5bGgBs4VzBy0Nw0dS0VbZfyvNa3Dmuhr-Iw"
-  },
-  {
-    "track_title": " Gone, Gone, Gone",
-    "mood": "Yearning",
-    "artist_name": "Phillip Phillips",
-    "artist_image": "",
-    "genre": "Western Pop",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=B969CE23521390CB&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02US3qz0oN6cmgfkVnva58IP.NTyI4dNndeKNEG5nCp7mTprUZj9Eqyw"
-  },
-  {
-    "track_title": " How Ya Do Dat",
-    "mood": "Defiant",
-    "artist_name": "Young Bleed",
-    "artist_image": "",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=3DE657EE9362CC51&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02hdpwGzOH9R1gh6Hy-H-Z3kcf4z.K.6n-UBHFtk9zb87S01U7O3afAQ"
-  },
-  {
-    "track_title": " Everything's Gonna Be Alright",
-    "mood": "Rowdy",
-    "artist_name": "Father MC",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=0F37718861228EE4&client=2711808&class=image&size=medium&type=image/jpeg&tag=02GNlZemuQoeCe6mlI0ZRiKgAXGftEyhncF0F46kX9f.Y8V-wIuSSOlw",
-    "genre": "Contemporary R&B/Soul",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=3E800837EC75CF6A&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02aHzhBSBUdu71ruc-pddHp9Xus4BcvmSQgsn6Kr-ftQYziUNSBf6f1g"
-  },
-  {
-    "track_title": " One Love",
-    "mood": "Cool",
-    "artist_name": "Whodini",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=79666905CB8E72E4&client=2711808&class=image&size=medium&type=image/jpeg&tag=02wJE0xAlZC3brL0QHTYxyY6DMPR.9rGOJkV8ixMx8o3eeZ-A-7nwL-g",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=95061AF782C2DAD6&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02QOrHcwpokG4WrAnA2o3xrdbmrK5cXZcFrAwBrZQ7Z0ztt3A1J56.4A"
-  },
-  {
-    "track_title": " (Fallin' Like) Dominoes",
-    "mood": "Cool",
-    "artist_name": "Donald Byrd",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=7327E86CFC35FED6&client=2711808&class=image&size=medium&type=image/jpeg&tag=025eUfzMuUVkaNOXsSKuDBaTpe4FIdSgQLKhgbymdMRImfMwpQhvdMbQ",
-    "genre": "Contemporary Jazz & Fusion",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=5D261DBCD058180C&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02Xj4DBwKJrLA6ftftluGTY5OJr3FEIzJ7tkNvR9AoMAM3HsXi905.ig"
-  },
-  {
-    "track_title": " Brenda's Got a Baby",
-    "mood": "Energizing",
-    "artist_name": "2pac.com",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=7B099F902F4F240E&client=2711808&class=image&size=medium&type=image/jpeg&tag=02vmx3-oVfRgy92v0Z5S4u..BheZS39js4e1GOq9uqWQvwYGN00PO46A",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=E4C648B81FE6B410&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02JnoHsnMRBOZM5VuYrPEK5CoAbj7.6dR9WS74FLlDNJ-ZZMHFndGaGw"
-  },
-  {
-    "track_title": " Eric B. Is President",
-    "mood": "Cool",
-    "artist_name": "Eric B. & Rakim",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=92555084D3811CB3&client=2711808&class=image&size=medium&type=image/jpeg&tag=02htoqx7yfZQ4BXIsEJ2PKWBict8vXtY0Qi9lIK.m7njCZoXZau6Ky2Q",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=B73FE5289B863038&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02vywU93VfSJ1uvfruAwHiaB32plQDSsHEaDFFSkmsHKMKFdQimEWDtg"
-  },
-  {
-    "track_title": " Played Like a Piano",
-    "mood": "Cool",
-    "artist_name": "King Tee",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=4CC9D16272C0854A&client=2711808&class=image&size=medium&type=image/jpeg&tag=02mIUVVN15KuLl9ck-7Py.ccZcGVzJnlel3-w8eAZVkhz.O9ZKQ7GTRQ",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=14B7CD01186DDF04&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=023ab7Cn.taOnMJljX.wIqCTDNJwscKNFBPgIuL1m.RvCGMJX2ql4cdA"
-  },
-  {
-    "track_title": " Ain't Nothin' But a Word to Me (feat. Ice Cube)",
-    "mood": "Defiant",
-    "artist_name": "Too $hort",
-    "artist_image": "",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": ""
-  },
-  {
-    "track_title": " Cruisin'",
-    "mood": "Sensual",
-    "artist_name": "D'Angelo ",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=DB169945D0923B93&client=2711808&class=image&size=medium&type=image/jpeg&tag=02iGvrv6zL9F8TvJAJqSLZ520ESE-BdvC9O7CqdQsElzpVvXLLqm25Wg",
-    "genre": "Contemporary R&B/Soul",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=74A5ABC96A5EA487&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02jAj1CJihq.zeQchVoqxUOyvfuMTGBzGIdl.b8JOwg8CzZH0yus.iHQ"
-  },
-  {
-    "track_title": " You Gots To Chill",
-    "mood": "Cool",
-    "artist_name": "EPMD",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=44A77279D105772C&client=2711808&class=image&size=medium&type=image/jpeg&tag=02NYCMyfDzrm20opNN4zXq0N3I4jTxCNjjnOLk3UgBGJxJE2cLXXasLw",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=82949C0A65F1BFE2&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02jgci.Jv6kQqbHKlVsyydY4KhflCB.gejJhr1XsWAZEjqYOu77BJP2Q"
-  },
-  {
-    "track_title": " Funkin' Lesson",
-    "mood": "Cool",
-    "artist_name": "X-Clan",
-    "artist_image": "",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=C3AAD4F4B40A4077&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02vRBb1qoLK28XMkPQ7Fby.rodWyQCAOc0ksI4IixFddccqnGkEaXNDA"
-  },
-  {
-    "track_title": " Rapper's Ball (feat. K-Ci & Too $hort)",
-    "mood": "",
-    "artist_name": "E-40",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=DF5956FE1D4BE31D&client=2711808&class=image&size=medium&type=image/jpeg&tag=02ZkH2dyMTZ5f-QOmQZ8GWBFH8doTJHo54bKRaQeCGL1MMP.rx9ShmmQ",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=41E3EBC362F0A292&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02n7tlMW3Ml1p2Lzs8ZGLWFDenFsUcBLd27A84dYYW-6flKrVmWLmAIg"
-  },
-  {
-    "track_title": " Zoom",
-    "mood": "Cool",
-    "artist_name": "The Commodores",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=509400179DE66138&client=2711808&class=image&size=medium&type=image/jpeg&tag=02M09xi0St1pBKiYFOoiFS7bfFE1Fzgl-l2C6HrZ-BrKGCanHdeeJ8ww",
-    "genre": "Contemporary R&B/Soul",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=9A5FDCE62CDCB9D3&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02kbw9DkSLPb13n7Iq0xjL-XHqOMJX1i8g687s7-4byVtc3uMDyuDqDw"
-  },
-  {
-    "track_title": " All Night Long",
-    "mood": "Sensual",
-    "artist_name": "Mary Jane Girls ",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=7C9DB91C138A77B8&client=2711808&class=image&size=medium&type=image/jpeg&tag=02is61-Cei5kb.2QZNXuWXAeziWkt-PoDvDwyPAC3oE-lKmSBeZlq-qw",
-    "genre": "Classic R&B/Soul",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=0F239928ACDCD05D&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02PYaQU17OfFiAJSN9blOO60LH.KSLX4Rj5JxjnXy42xjPnKryR-5iGg"
-  },
-  {
-    "track_title": " Hey Lover",
-    "mood": "Sensual",
-    "artist_name": "Boyz II Men",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=8038EC2AA7877C7B&client=2711808&class=image&size=medium&type=image/jpeg&tag=02gPUVg0EffpOdYtKcy2z94aiLZSDJZkLQ68HYF2dMYsK680vGVBMsqA",
-    "genre": "Contemporary R&B/Soul",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=1268DBCB0DB8CB75&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02N8Ule.JUpwU8JEwIsfKIEH6bl9UzGFo.8o9u2tS3qihpEyVYilawlw"
-  },
-  {
-    "track_title": " Big Poppa",
-    "mood": "Sensual",
-    "artist_name": "The Notorious B.I.G. ",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=FCEDCC3DB089848C&client=2711808&class=image&size=medium&type=image/jpeg&tag=023Hzpqf2PxRjOiVcNrI.T6xOL1RZO0mQdkcHMAVrMS7pbbyivzdvp8A",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=5FA31F02FFA00EAA&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=020-Um83ODh3-uqhNFVS7h.TNUS1r3GdKnksc9Ss4upKQpCDAMN08sFA"
-  },
-  {
-    "track_title": " F*** Faces",
-    "mood": "Cool",
-    "artist_name": "Scarface",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=7136CF0AAD8A6088&client=2711808&class=image&size=medium&type=image/jpeg&tag=02zCFHHCCFSMqURhGj8T5GJyLUNu1SFrhaMpcSSX2M-9c55Q1pDmFB9A",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=0F3C0CA5692278E7&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02yBlnSk0MoIMjBaOA50Tqxz4dAFYiNCrsGjlbUFRrijeDMyZSjVtnlA"
-  },
-  {
-    "track_title": " F*** Faces",
-    "mood": "Cool",
-    "artist_name": "Scarface",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=7136CF0AAD8A6088&client=2711808&class=image&size=medium&type=image/jpeg&tag=02dgNJJvjK14WCYwVrruRXa0l8t1VOI5gvy7jGeVroE6qvUngtyrVKgw",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=0F3C0CA5692278E7&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02--.6O2DdrzgA8frAdjIW5Ka7pkUVSntUBcyQaOxnLLD6LfEVj7MDuA"
-  },
-  {
-    "track_title": " Don't Fight the Feelin'",
-    "mood": "Cool",
-    "artist_name": "Too $hort",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=B8313AC9448C39F6&client=2711808&class=image&size=medium&type=image/jpeg&tag=02uy1Fv9bu3efWXefZjAWYzF2lTXV3TnuRNAGgpQ0MgdCiyfVrzWYdCA",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=4C60358F46384662&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02ZRWbngL8mX1y.3pFEw-Nuj4G4kKvAxEgEoL2bTnWawzPg7lcSolVNw"
-  },
-  {
-    "track_title": " I Want Her",
-    "mood": "Energizing",
-    "artist_name": "Keith Sweat ",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=444E85544A2776DF&client=2711808&class=image&size=medium&type=image/jpeg&tag=02BrPwROg0L7.kqwa-67laFw9x1qm5phhUo--tvs0OYUoKI4FBqoP9Xw",
-    "genre": "Contemporary R&B/Soul",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=7650CF110B6F0446&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=025o0Y2P3vvEE6LrbpDByXobZLbW4yz23Hip-E.AdKMJWsjovalCZt0w"
-  },
-  {
-    "track_title": " Come & Talk to Me",
-    "mood": "Sensual",
-    "artist_name": "Jodeci ",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=46835A9C57ADAE2F&client=2711808&class=image&size=medium&type=image/jpeg&tag=025.2YYR1PAjizff2GGSNW0j0aNg4gBrXN52OqrEh5HsiOdaLJsw2shw",
-    "genre": "Contemporary R&B/Soul",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=452042099C0A54B3&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02YJYoYNq4W-kOmNRKS0doQV-vCYkO.IJZulDk.9cNA8ULFN2Z72YIhQ"
-  },
-  {
-    "track_title": " Groupie Ass Bitch",
-    "mood": "Cool",
-    "artist_name": "415",
-    "artist_image": "",
-    "genre": "Western Hip-Hop/Rap",
-    "album_art": ""
-  },
-  {
-    "track_title": " Age of Love (Watch Out For Stella Mix)",
-    "mood": "Energizing",
-    "artist_name": "Age of Love ",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=BCBBD9DC05DC78BE&client=2711808&class=image&size=medium&type=image/jpeg&tag=02XOEJJlx2EW54oddlyslybBvkSc11FEGKKSWBEodmDXQ0.YpZeW0yGg",
-    "genre": "Trance",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=412E7942AFA46B83&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02sheVY0oUO0UEi9D9kPBsVdCdSuflO-fv4wJTPy8IrZ3P1SYdnZfb4A"
-  },
-  {
-    "track_title": " Sextape",
-    "mood": "Brooding",
-    "artist_name": "Deftones",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=46A7F50F7D216566&client=2711808&class=image&size=medium&type=image/jpeg&tag=02H1ym2nSBE0IfpExeb4U2HwRDBMOFNqJFWN4qk3JJJ2wqtWF0RV3pZg",
-    "genre": "Metal",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=3CBB6FA7766B1190&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02WTM0gcZwtC8qqM0H.BToB3Sxl-M69sF3PRCtyeLRacqCIfacoS636Q"
-  },
-  {
-    "track_title": " Blinded By the Light",
-    "mood": "Upbeat",
-    "artist_name": "Manfred Mann's Earth Band ",
-    "artist_image": "",
-    "genre": "70's Rock",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=3CCB588E25CA9059&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02Sh01f31R909SKKPz4Dpwfp0sw4jHRnrfiu0LB77BMPfFRZDdgjj3Vg"
-  },
-  {
-    "track_title": " Naughty Girl",
-    "mood": "",
-    "artist_name": "Beyoncé Knowles",
-    "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=20562C2139E0E60D&client=2711808&class=image&size=medium&type=image/jpeg&tag=02i1yugudXEgRUQ-KyEMz9DKJWDz4CS8aEaxQ-ua69L5vNlpaYbXY4YQ",
-    "genre": "Contemporary R&B/Soul",
-    "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=125663A1A6C54F71&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=022Vru7hWA9-dtfgJj9JbDb7DL63SIhAWwACmdzp1dM777iThs1AkFBg"
-  }
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=68333C98DFBB595B&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02sQAvzvO1kZQ5zHqo1umM3B0A8KsKhxinCmAnqiH-.L5B3ARKlI1zkw", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=BC5082C824C601D0&client=2711808&class=image&size=medium&type=image/jpeg&tag=02RRCYKeqYYgtDLHFxIWSy.yILYfYGYTMuP5e3.VOgiiK6LUrSYC1rLA", 
+        "artist_name": "DJ Quik ", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Cool", 
+        "text": "My soundtrack: \u266b \"Tonite\" by DJ Quik http://t.co/4eQEqceBET", 
+        "track_title": " Tonite"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=71336BCAE3915726&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02.7KEpYuxdZG5.Cpc8pf7bKnAgczXwgxPKLKJjdfHF3JwjqhJzv5Elg", 
+        "artist_image": "", 
+        "artist_name": "Queen Pen ", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Energizing", 
+        "text": "My soundtrack: \u266b \"Party Ain't a Party\" by Queen Pen http://t.co/9yizatL0x5", 
+        "track_title": " Party Ain't a Party"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=AC6CAC7B929BC5FD&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02EttT1uzUuC0uzYE1pI5lKEXiCnEIOMBaGzcFc0Zsi0G0Wl2h5YWc0A", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=9E66B095349C73CE&client=2711808&class=image&size=medium&type=image/jpeg&tag=02mThs6kOrqQ.KtHMFwAazBACIKEfO4d3Cbd0G8XK-cpWG.GHf0KuLZQ", 
+        "artist_name": "Mary J. Blige", 
+        "genre": "Contemporary R&B/Soul", 
+        "mood": "Sensual", 
+        "text": "My soundtrack: \u266b \"Don't Mind\" by @maryjblige http://t.co/p3nkI6uqYC", 
+        "track_title": " Don't Mind"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=5FA31F02FFA00EAA&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02Ha8GOPl-wWm556HgBdyIA01luwJvBbTTmgZPHbwHQ9SwDZJag0qXWg", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=FCEDCC3DB089848C&client=2711808&class=image&size=medium&type=image/jpeg&tag=02NCKK3FaX5g-J4PCD5AvfGtCxUpNZmCWS2-GKKppq6GPOH5mVUNYv-g", 
+        "artist_name": "The Notorious B.I.G. ", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Sensual", 
+        "text": "RT @CrimsonRvn368: My soundtrack: \u266b \"Big Poppa\" by The Notorious B.I.G. http://t.co/qtOdl7mxmA", 
+        "track_title": " Big Poppa"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=5FA31F02FFA00EAA&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02ttnLPV8el4LQqmkUPAtRXAQr6929OmUrBWLHSkq40xqhrcSE6goxfA", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=FCEDCC3DB089848C&client=2711808&class=image&size=medium&type=image/jpeg&tag=02kanGRDev9VWHTbSknekqquuq8Tpayg-GkLiN95GQuOE5GvU2HvY0-w", 
+        "artist_name": "The Notorious B.I.G. ", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Sensual", 
+        "text": "My soundtrack: \u266b \"Big Poppa\" by The Notorious B.I.G. http://t.co/qtOdl7mxmA", 
+        "track_title": " Big Poppa"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=BD6BFE4F70FE00AC&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02wb3Fl1OBE.M.uYdbt59E6w2kpo7WK9wL-UsqfcEKCF3fK1B4C5btsw", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=46835A9C57ADAE2F&client=2711808&class=image&size=medium&type=image/jpeg&tag=02tcRhyCbAfsmSOCBisfsDG63IMvIXLjghMxL9uWEiF.UGz-Ozr1HSIw", 
+        "artist_name": "Jodeci ", 
+        "genre": "Contemporary R&B/Soul", 
+        "mood": "Sensual", 
+        "text": "My soundtrack: \u266b \"Feenin'\" by Jodeci http://t.co/h4Ea7fS7gD", 
+        "track_title": " Feenin'"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=B969CE23521390CB&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02S79ZyZUjR8yb7fkrOrGf5Z9wJIaIbCVogG4zVe4kRwdEYTdBkZO1Pw", 
+        "artist_image": "", 
+        "artist_name": "Phillip Phillips", 
+        "genre": "Western Pop", 
+        "mood": "Yearning", 
+        "text": "This? Could not be a better afternoon for a wedding. #DasIstAlles \u266b \"Gone, Gone, Gone\" by @Phillips http://t.co/N8ViUKJimH [pic]", 
+        "track_title": " Gone, Gone, Gone"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=3DE657EE9362CC51&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02xq69rNHF.kWlcbXtrsJFe5XgdnAbal5I8-5jz-e5DnufqA96yiRttw", 
+        "artist_image": "", 
+        "artist_name": "Young Bleed", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Defiant", 
+        "text": "My soundtrack: \u266b \"How Ya Do Dat\" by Young Bleed (@ Antioch, CA, USA) http://t.co/2OKjA62uIe", 
+        "track_title": " How Ya Do Dat"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=3E800837EC75CF6A&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02ed0IcuV7.K7AdN39VvD1mDPjLbVd6KyL.3mOs31T0vK6vU-X.NT8fQ", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=0F37718861228EE4&client=2711808&class=image&size=medium&type=image/jpeg&tag=02YK4GGDIM9w3Vj9309mXKF-ii2NX46L2FldWE8XxWAZPYoKvwmiXchw", 
+        "artist_name": "Father MC", 
+        "genre": "Contemporary R&B/Soul", 
+        "mood": "Rowdy", 
+        "text": "My soundtrack: \u266b \"Everything's Gonna Be Alright\" by Father MC (@ Antioch, CA, USA) http://t.co/vxDs7c6q03 [pic]", 
+        "track_title": " Everything's Gonna Be Alright"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=95061AF782C2DAD6&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02m4XMt4NmDr3EUsVSu5ooxTgaMYwaTDcdr8CUFg8X6j1znD9tZEU35g", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=79666905CB8E72E4&client=2711808&class=image&size=medium&type=image/jpeg&tag=02CefTPKGBjYe7waRnbGvEUVr.hE0vr1.bBWDCi68vyO9jisZiDt8O-A", 
+        "artist_name": "Whodini", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Cool", 
+        "text": "My soundtrack: \u266b \"One Love\" by Whodini (@ Antioch, CA, USA) http://t.co/DqTVTH1cpH [pic]", 
+        "track_title": " One Love"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=5D261DBCD058180C&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=0208NvZEeqaLHdJBEnfo.GvBsypN1wJ9T7dHa8Vj04s6h6hiaFBCyNwA", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=7327E86CFC35FED6&client=2711808&class=image&size=medium&type=image/jpeg&tag=02RoLbW4HIkF8EnN5eJoNi2SQIVU.II1jb2q.-Wed63xRsyvuOpXN64A", 
+        "artist_name": "Donald Byrd", 
+        "genre": "Contemporary Jazz & Fusion", 
+        "mood": "Cool", 
+        "text": "Musical Excellence \u266b \"(Fallin' Like) Dominoes\" by Donald Byrd (@ Union City, CA, USA) http://t.co/KYd4PyINVX", 
+        "track_title": " (Fallin' Like) Dominoes"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=E4C648B81FE6B410&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02LdSW9pF6qWbnKZ26tW2sK6Mf61p7HkYgC.zXHIxQ5CMy-emLjrm2yg", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=7B099F902F4F240E&client=2711808&class=image&size=medium&type=image/jpeg&tag=02NOMPf934rocd3R81u4eSQq9jBTd6LluEsirgS1SvWeiQBRTYgKYzrg", 
+        "artist_name": "2pac.com", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Energizing", 
+        "text": "My soundtrack: \u266b \"Brenda's Got a Baby\" by @2pac (@ Produce and Waterfront, Oakland, CA, USA) http://t.co/KtpFG9XbQL", 
+        "track_title": " Brenda's Got a Baby"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=B73FE5289B863038&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02.VZY0JngxDzeHpFNJHZrneaoWUo7yhBI.GY5UwtxMkmDwe8gnFUmdA", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=92555084D3811CB3&client=2711808&class=image&size=medium&type=image/jpeg&tag=02J..AvK1ukc7370dEzmArc4NkvYkGIus4Eou3WllheR4YK3ap5kmxSw", 
+        "artist_name": "Eric B. & Rakim", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Cool", 
+        "text": "My soundtrack: \u266b \"Eric B. Is President\" by Eric B. &amp; Rakim (@ Produce and Waterfront, Oakland, CA, USA) http://t.co/QwDZOy7VYb", 
+        "track_title": " Eric B. Is President"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=14B7CD01186DDF04&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02AsgcjvG5k5OWQ-kYfP6lBUhE.3dhGNbOxH40UOMCz2BuD4.dTvmVRA", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=4CC9D16272C0854A&client=2711808&class=image&size=medium&type=image/jpeg&tag=02dKIQFDV6lUJnmErwxb9djOHCjKavn4zfJve2ZILCgYZWbvrArfDsug", 
+        "artist_name": "King Tee", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Cool", 
+        "text": "Same ol Lambs #Niners \u266b \"Played Like a Piano\" by King Tee (@ Produce and Waterfront, Oakland, CA, USA) http://t.co/nlVJG6IHa9", 
+        "track_title": " Played Like a Piano"
+    }, 
+    {
+        "album_art": "", 
+        "artist_image": "", 
+        "artist_name": "Too $hort", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Defiant", 
+        "text": "My soundtrack: \u266b \"Ain't Nothin' But a Word to Me (feat. Ice Cube)\" by @TooShort http://t.co/PuEYYlBZjl", 
+        "track_title": " Ain't Nothin' But a Word to Me (feat. Ice Cube)"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=74A5ABC96A5EA487&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02u5hXgr1bJahot9OOtEjU7wX7fmqZ0aqMMXLK3choHGHSiOcbwZpRuQ", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=DB169945D0923B93&client=2711808&class=image&size=medium&type=image/jpeg&tag=02M6l04whhtq2dmpBLHQZNiP46uHa6Bz8lHA3rPWBiVPl844cvHwb8Xw", 
+        "artist_name": "D'Angelo ", 
+        "genre": "Contemporary R&B/Soul", 
+        "mood": "Sensual", 
+        "text": "My soundtrack: \u266b \"Cruisin'\" by D'Angelo http://t.co/QkHEl5XYRu", 
+        "track_title": " Cruisin'"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=82949C0A65F1BFE2&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02N8vSlrc8KPSPLKpnukhjZ3rxl9CrbS0R9Vsx-kHjBYQTA.ViIlfwFA", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=44A77279D105772C&client=2711808&class=image&size=medium&type=image/jpeg&tag=02sWKzBcQS7vatirGIW1HV1.gZK1uaKyF92PFrAIA31OY3YYp-mXeZSA", 
+        "artist_name": "EPMD", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Cool", 
+        "text": "My soundtrack: \u266b \"You Gots To Chill\" by EPMD (@ Knickerbocker, Orinda, CA 94563, USA) http://t.co/EKwNtcVKdz", 
+        "track_title": " You Gots To Chill"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=C3AAD4F4B40A4077&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02zP6C5xlb6lkRxC9RZ2pZj1-T2Gu.dRk2xyPvVGIWhlQ38vGxs1rVeg", 
+        "artist_image": "", 
+        "artist_name": "X-Clan", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Cool", 
+        "text": "#tbt \u266b \"Funkin' Lesson\" by X-Clan (@ Orindawoods, Orinda, CA, USA) http://t.co/iIseZsjGvq", 
+        "track_title": " Funkin' Lesson"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=41E3EBC362F0A292&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02xGq4ehq5ALR-VCKPtnGmug6Ph6mB4xbT5gmE-CHlFE60KgI9kHaPVQ", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=DF5956FE1D4BE31D&client=2711808&class=image&size=medium&type=image/jpeg&tag=02q9TS96ODDnrlb.9bNwo6sZDPtqbMAAdQMO1gywiHNUYBZFjhghYzkw", 
+        "artist_name": "E-40", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "", 
+        "text": "My soundtrack: \u266b \"Rapper's Ball (feat. K-Ci &amp; Too $hort)\" by @E40 http://t.co/fGH23diaQ3", 
+        "track_title": " Rapper's Ball (feat. K-Ci & Too $hort)"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=9A5FDCE62CDCB9D3&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02O-2DsrZDvE7TkqJpZpqm79KOHFt2WF3otmktMV2BoF9296OO2TNS9g", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=509400179DE66138&client=2711808&class=image&size=medium&type=image/jpeg&tag=02tQ9M1B2zAOambz4pZ1ynGAm-IRoR8ZftkpS6.i-Mhf8QAArOk2T2wQ", 
+        "artist_name": "The Commodores", 
+        "genre": "Contemporary R&B/Soul", 
+        "mood": "Cool", 
+        "text": "#Jammin #homebound #zooming \u266b \"Zoom\" by The Commodores (@ Antioch, CA, USA) http://t.co/pxsp4kckNe", 
+        "track_title": " Zoom"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=0F239928ACDCD05D&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02KB7JeEuBrvRBZr4iImLiUw7rz1zy9RWqELSp8lOPNvnCaz-rZESwuA", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=7C9DB91C138A77B8&client=2711808&class=image&size=medium&type=image/jpeg&tag=025NCQPRsSWpmcoK28.EvieoS1IPOYiSVfAdlY6XANcc2pMjY0ons6OQ", 
+        "artist_name": "Mary Jane Girls ", 
+        "genre": "Classic R&B/Soul", 
+        "mood": "Sensual", 
+        "text": "My soundtrack: \u266b \"All Night Long\" by Mary Jane Girls http://t.co/9HFmUqGGPV", 
+        "track_title": " All Night Long"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=1268DBCB0DB8CB75&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02psv-1515u4jy7Ais2W3I20W62IqVdsl4DkPsE427D.pZ9HIx-XozbA", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=8038EC2AA7877C7B&client=2711808&class=image&size=medium&type=image/jpeg&tag=02Kn9d6YRT9fKvautjz.a2oQnUM5QtC5DkyxYFLtIPGqV6OR57-9hxDg", 
+        "artist_name": "Boyz II Men", 
+        "genre": "Contemporary R&B/Soul", 
+        "mood": "Sensual", 
+        "text": "Hey lover!  This is more than a cruuuuush! \ud83d\ude0d \ud83d\ude0d \ud83d\ude0d \u266b \"Hey Lover\" by @BoyzIIMen http://t.co/GL9vy2QV3I", 
+        "track_title": " Hey Lover"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=5FA31F02FFA00EAA&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02HpFTeJ8w-WUTxgW.hN285qrFgtxwhS6DS58gxrMuqInoG9SD.BNQQA", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=FCEDCC3DB089848C&client=2711808&class=image&size=medium&type=image/jpeg&tag=02p0mOdZYsfkQDbCXk9F8CViiBTu5rgrUJVtaf-lhP4QXpeYr7hfunUA", 
+        "artist_name": "The Notorious B.I.G. ", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Sensual", 
+        "text": "My soundtrack: \u266b \"Big Poppa\" by The Notorious B.I.G. http://t.co/TZGmFcSqm9", 
+        "track_title": " Big Poppa"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=0F3C0CA5692278E7&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02GjTUpDlYUx0gmgpWviX8deNFdu2U3Wl7jd6AwD-DTyoEjUibMeFQIA", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=7136CF0AAD8A6088&client=2711808&class=image&size=medium&type=image/jpeg&tag=025ZnVneJeplT9oCsdIZ3CR1yeZwkd1n83IE6c4RYYiUX1t8m.UxlbIg", 
+        "artist_name": "Scarface", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Cool", 
+        "text": "RT @JNeedHisScrilla: #scorpiothemesong \u266b \"F*** Faces\" by Scarface, Devin the Dude, Tela &amp; Too $hort (@ Antioch, CA, USA) http://t.co/iHGt7i\u2026", 
+        "track_title": " F*** Faces"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=0F3C0CA5692278E7&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02aodMCFts9iHDd4aR2f4grij1PsrmNKiBjD3BK7h7BbgMx0opQtFVwg", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=7136CF0AAD8A6088&client=2711808&class=image&size=medium&type=image/jpeg&tag=02hx8.MxQ8NYVKXHcs7qVfhBIawI8F008pSsSWaT2h4y6hTCWT5EtLKQ", 
+        "artist_name": "Scarface", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Cool", 
+        "text": "#scorpiothemesong \u266b \"F*** Faces\" by Scarface, Devin the Dude, Tela &amp; Too $hort (@ Antioch, CA, USA) http://t.co/iHGt7iV1TL", 
+        "track_title": " F*** Faces"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=4C60358F46384662&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02gAELXNGf.1dR5nS2hdyJVTkFjqbthiPA9jGqMNQIpg2BM0NbIaIWJQ", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=B8313AC9448C39F6&client=2711808&class=image&size=medium&type=image/jpeg&tag=02in8L.xZGesrFa6oUYwIFwKSfb4rvgE1avyVoltlQ8IfnR9yScpY8xw", 
+        "artist_name": "Too $hort", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Cool", 
+        "text": "Slappin on the way home \u266b \"Don't Fight the Feelin'\" by @TooShort (@ Overlook, Lafayette, CA, USA) http://t.co/xMOpZFSzbI", 
+        "track_title": " Don't Fight the Feelin'"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=7650CF110B6F0446&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02omNFzm0.cx3fftt6V6aKhGdbmj2c6bL.H3ICWqRMhvxoJWeEl-Ma6g", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=444E85544A2776DF&client=2711808&class=image&size=medium&type=image/jpeg&tag=025DQ5ABDW5F6jYBUKeOCMLhecYPTABUE3lEcHtjetO3xCCDYYYn8EHQ", 
+        "artist_name": "Keith Sweat ", 
+        "genre": "Contemporary R&B/Soul", 
+        "mood": "Energizing", 
+        "text": "My soundtrack: \u266b \"I Want Her\" by Keith Sweat http://t.co/uEtk3rOZHp", 
+        "track_title": " I Want Her"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=452042099C0A54B3&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02l6OZ-Q.qdnxaFqdxukNEFKV7yOOmlixrsQRhJcVwZrasBEVdow5NfA", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=46835A9C57ADAE2F&client=2711808&class=image&size=medium&type=image/jpeg&tag=02f8MCYh70IzyGdT03Wr8ANtcSrrqvHtP4RIZb.DcdyiJIMqSqVevwgA", 
+        "artist_name": "Jodeci ", 
+        "genre": "Contemporary R&B/Soul", 
+        "mood": "Sensual", 
+        "text": "My soundtrack: \u266b \"Come &amp; Talk to Me\" by Jodeci http://t.co/KNT7jsXGUV", 
+        "track_title": " Come & Talk to Me"
+    }, 
+    {
+        "album_art": "", 
+        "artist_image": "", 
+        "artist_name": "415", 
+        "genre": "Western Hip-Hop/Rap", 
+        "mood": "Cool", 
+        "text": "Bay Area classic! \u266b \"Groupie Ass Bitch\" by 415 (@ Antioch, CA, USA) http://t.co/wNBgu8Pgjj", 
+        "track_title": " Groupie Ass Bitch"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=412E7942AFA46B83&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02Ap572vDt0lSQSUcjPWZCUg3V8sR97eUqpSQc0R12YCtgoggKNCYuBQ", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=BCBBD9DC05DC78BE&client=2711808&class=image&size=medium&type=image/jpeg&tag=02nvGEWMRqQcOHTvmO6UUXYrIDVALWQeqQdmYz4cqq8NIz5QzrRXqIaA", 
+        "artist_name": "Age of Love ", 
+        "genre": "Trance", 
+        "mood": "Energizing", 
+        "text": "Watching the Louie Vuitton -Collection-Ready to... \u266b \"Age of Love (Watch Out For Stella Mix)\" by Age of Love http://t.co/KVX6UUr4Cu [pic]", 
+        "track_title": " Age of Love (Watch Out For Stella Mix)"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=3CBB6FA7766B1190&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02IsdD4f-1q4Wk7LzEGGT5R5ENQz7ntr7JJk7U2IMZoE.2AdgBv2IdCg", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=46A7F50F7D216566&client=2711808&class=image&size=medium&type=image/jpeg&tag=02r0tI50N77ExeLlQQ-SA4rUE91gMjJJ7v2sMRopcGyF5yMGJ.gODBeA", 
+        "artist_name": "Deftones", 
+        "genre": "Metal", 
+        "mood": "Brooding", 
+        "text": "\"Take me one last time Take me one more wave Take me one last ride I'm out of my head\" \u266b \"Sextape\" by @deftones http://t.co/yemavl8lPT", 
+        "track_title": " Sextape"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=3CCB588E25CA9059&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=02MjGp-f97fW4YpETQVHE8fAu0wYXp8hVqylWEt108lq9oOkQq7rm3PQ", 
+        "artist_image": "", 
+        "artist_name": "Manfred Mann's Earth Band ", 
+        "genre": "70's Rock", 
+        "mood": "Upbeat", 
+        "text": "Moving day. \u266b \"Blinded By the Light\" by Manfred Mann's Earth Band http://t.co/QAme4DhNcu [pic]", 
+        "track_title": " Blinded By the Light"
+    }, 
+    {
+        "album_art": "https://web.content.cddbp.net/cgi-bin/content-thin?id=125663A1A6C54F71&client=2711808&class=cover&origin=front&size=medium&type=image/jpeg&tag=024cF2Yr1GlR8VAtdYNm8kL32dEk0ZPK5d4lwNJCHWS3d8ZgEaCTWw2A", 
+        "artist_image": "https://web.content.cddbp.net/cgi-bin/content-thin?id=20562C2139E0E60D&client=2711808&class=image&size=medium&type=image/jpeg&tag=02g-eBS6H31.IYocWdKvEUahbeLwArUuPrT3XwCbQhlwUCcpKUjIdw0w", 
+        "artist_name": "Beyonc\u00e9 Knowles", 
+        "genre": "Contemporary R&B/Soul", 
+        "mood": "", 
+        "text": "Naughty girl. Clean laundry. \u266b \"Naughty Girl\" by @Beyonce http://t.co/exn4Nibsg4 [pic]", 
+        "track_title": " Naughty Girl"
+    }
 ]
