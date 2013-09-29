@@ -119,6 +119,66 @@ var filters = {
     cool: function(tweet) {
         return tweet.mood == 'Cool';
     },
+    brooding : function(tweet) {
+        return tweet.mood == 'Brooding';
+    },
+    defiant : function(tweet) {
+        return tweet.mood == 'Defiant';
+    },
+    urgent : function(tweet) {
+        return tweet.mood == 'Urgent';
+    },
+    yearning : function(tweet) {
+        return tweet.mood == 'Yearning';
+    },
+    sensual : function(tweet) {
+        return tweet.mood == 'Sensual';
+    },
+    upbeat : function(tweet) {
+        return tweet.mood == 'Upbeat';
+    },
+    rowdy : function(tweet) {
+        return tweet.mood == 'Rowdy';
+    },
+    energizing : function(tweet) {
+        return tweet.mood == 'Energizing';
+    },
+    peaceful: function(tweet) {
+        return ['Easygoing','Tender','Romantic','Peaceful'].indexOf(tweet.mood) > -1;
+    },
+    indie : function (tweet) {
+        return tweet.genre.indexOf('Indie') > -1;
+    },
+    rb : function (tweet) {
+        return tweet.genre.indexOf('R&B') > -1;
+    },
+    alternative : function (tweet) {
+        return tweet.genre.indexOf('Alternative') > -1;
+    },
+    rock : function (tweet) {
+        return tweet.genre.indexOf('Rock') > -1;
+    },
+    hiphop : function (tweet) {
+        return tweet.genre.indexOf('Hip-Hop') > -1;
+    },
+    electronica : function (tweet) {
+        return tweet.genre.indexOf('Electronica') > -1;
+    },
+    country : function (tweet) {
+        return tweet.genre.indexOf('Country') > -1;
+    },
+    folk : function (tweet) {
+        return tweet.genre.indexOf('Folk') > -1;
+    },
+    reggeae : function (tweet) {
+        return tweet.genre.indexOf('Reggeae') > -1;
+    },
+    classical : function (tweet) {
+        return tweet.genre.indexOf('Classical') > -1;
+    },
+    dance : function (tweet) {
+        return tweet.genre.indexOf('Dance') > -1;
+    },
     rap: function(tweet) {
         return tweet.genre.indexOf('Rap') > -1;
     },
